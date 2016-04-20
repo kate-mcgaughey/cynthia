@@ -18,6 +18,8 @@
 			<li>Contact - Follow me on Facebook</li>
 		</ul>
 	</body>
+	<HR>
+	
 	<footer>
 		<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
 	</footer>
