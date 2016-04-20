@@ -1,11 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 4/19/16
- * Time: 9:30 PM
- */
-
 <!DOCTYPE html>
 	<html lang="en">
 
@@ -36,3 +28,7 @@ echo "My site is designed for people in the northwest Chicago suburbs and southe
 <?php
 echo "To market Cynthia's services, showcase her playing, and anything else she wants to work in, such as recruit social media followers.";
 
+			<h2>Persona</h2>
+
+<?php
+echo "A typical user of this site is a young woman planning a wedding."
