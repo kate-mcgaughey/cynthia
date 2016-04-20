@@ -16,7 +16,11 @@
 
 		<body>
 
-			<h2>Purpose</h2>
+			<div class="container">
+
+				<div class="header">
+
+					<h2>Personal Website Project - Milestone 1</h2>
 
 <?php
 echo "This PWP will be for my friend Cynthia, a violinist. She is seeking a site to promote her professional services.";
