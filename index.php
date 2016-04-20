@@ -15,7 +15,7 @@
 			<li>Samples</li>
 			<li>Testimonials</li>
 			<li>Calendar</li>
-			<li>Contact</li>
+			<li>Contact - Follow me on Facebook</li>
 		</ul>
 	</body>
 	<footer>
