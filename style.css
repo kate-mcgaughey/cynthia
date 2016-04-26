@@ -1,0 +1,15 @@
+body{
+	background: #e6ebe0;
+}
+#box{
+	position: absolute;
+	background: #e6ebe0;
+	border-radius: 15px;
+	top: 100px;
+	width: 400px;
+	height: 300px;
+	left: 60px;
+	line-height: 18px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
