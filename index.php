@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Cynthia Hodgson Music - Violin performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
