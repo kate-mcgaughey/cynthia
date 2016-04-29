@@ -26,9 +26,7 @@
 
 				<h4>Age: 28</h4>
 
-				<h4>Profession:</h4>
-
-					<p>Jane is a registered nurse at Centegra Memorial Medical Center, the local hospital. She works in the heart and vascular ICU. Jane is a deeply caring person who forms close relationships with the patients she sees repeatedly, such as who are in treatment for COPD. Though not humorless, Jane could be described as serious. In her free time, she goes on nature walks with her family and friends, and volunteers at church and for the Animal Humane Society.</p>
+				<h4>Profession:</h4><p>Jane is a registered nurse at Centegra Memorial Medical Center, the local hospital. She works in the heart and vascular ICU. Jane is a deeply caring person who forms close relationships with the patients she sees repeatedly, such as who are in treatment for COPD. Though not humorless, Jane could be described as serious. In her free time, she goes on nature walks with her family and friends, and volunteers at church and for the Animal Humane Society.</p>
 
 				<h4>Technology:</h4>
 
@@ -48,6 +46,6 @@
 
 			<h3>Use Case</h3>
 
-				<p></p>
+				<p>Jane Downin Googles "wedding music woodstock il" and returned a few dozen results. Most of the results seem to be lists and classifieds, so she pages forward until she sees websites for individual performers and ensembles. Jane opens links for four performers. She immediately closes three because they are unaffordable. Jane now decides to thoroughly explore Cynthia's site, reading all the content on the about, repertoire, rates, testimonials pages. She submits her contact information through the form on the contact page, and hopes to hear from Cynthia soon.</p>
 		</body>
 	</html>
