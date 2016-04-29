@@ -22,7 +22,7 @@
 
 			<h3>Persona</h3>
 
-<p>Jane is a 28-year-old woman in Woodstock, IL who is planning her wedding. She's a little overwhelmed by how much there is to do, and has a checklist. Finding a performer for background music seemed to be one of her easier tasks, so she is beginning there. She found Cynthia's site, but doesn't know exactly what she wants performed.</p>
+<p>Jane is a 28-year-old woman in Woodstock, IL who is planning her wedding. She's a little overwhelmed by how much there is to do, and has a checklist. Finding a performer for background music seemed to be one of her easier tasks, so she is beginning there. She found Cynthia's site, but doesn't know exactly what she wants performed. She explores the repertoire page, reviews the rates, and decides to inquire about </p>
 
 		</body>
 	</html>

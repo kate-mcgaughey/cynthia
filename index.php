@@ -10,15 +10,13 @@
 		<p>As a pianist, I have had the opportunity to play as a soloist and accompanist. My styles of piano playing include classical, jazz, pop/love songs, and ragtime. I am also available to accompany other musicians. Please note that at this time I do request that a piano or keyboard be provided for me.</p>
 		<p>Currently, I am a violinist with the Lake Geneva Symphony. In addition, I am a member of my local church’s praise team, where I serve as violinist, pianist & vocalist for the weekly services. Many blessings to you! I look forward to creating musical memories for your special occasion.</p>
 		<p>Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola, cello, piano, and flute.</p>
-		<img src="" alt="Cynthia Hodgson"/>
+		<img src="" alt="Cynthia hasn't given me her headshot yet"/>
 		<p>Text</p>
 		<ul>
 			<li>About</li>
 			<li>Repertoire</li>
-			<li>Samples</li>
 			<li>Testimonials</li>
-			<li>Calendar</li>
-			<li>Contact - Follow me on Facebook</li>
+			<li>Contact</li>
 		</ul>
 	</body>
 	<HR>
