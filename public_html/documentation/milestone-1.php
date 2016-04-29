@@ -10,19 +10,19 @@
 		<body>
 			<h2>Personal Website Project - Milestone 1</h2>
 
-<p>This PWP will be for my cousin's wife Cynthia, a violinist. She is seeking a site to promote her professional services.</p>
+				<p>This PWP will be for my cousin's wife Cynthia, a violinist. She is seeking a site to promote her professional services.</p>
 
 			<h3>Audience</h3>
 
-<p>This site is designed for people in the northwest Chicago suburbs and southern Wisconsin, (this is where Cynthia lives,) who need to hire a violinist or small ensemble. I expect a large focus to be on wedding accompaniment.</p>
+				<p>This site is designed for people in the northwest Chicago suburbs and southern Wisconsin, (this is where Cynthia lives,) who need to hire a violinist or small ensemble. I expect a large focus to be on wedding accompaniment.</p>
 
 			<h3>Goal</h3>
 
-<p>The end goal is to increase Cynthia's bookings at events such as weddings.</p>
+				<p>The end goal is to increase Cynthia's bookings at events such as weddings.</p>
 
 			<h3>Persona</h3>
 
-<p>Jane is a 28-year-old woman in Woodstock, IL who is planning her wedding. She's a little overwhelmed by how much there is to do, and has a checklist. Finding a performer for background music seemed to be one of her easier tasks, so she is beginning there. She found Cynthia's site, but doesn't know exactly what she wants performed. She explores the repertoire page, reviews the rates, and decides to inquire about </p>
+				<p>Jane is a 28-year-old woman in Woodstock, IL who is planning her wedding, which will be in the summer of 2017. She's a little overwhelmed by how much there is to do, and has a checklist. Finding a performer for background music seemed to be one of her easier tasks, so she is beginning there. She found Cynthia's site and thinks Cynthia might be a good fit for her wedding, but doesn't know exactly what she wants performed. She explores the repertoire page, reviews the rates, and decides to inquire about Cynthia's availability.</p>
 
 		</body>
 	</html>

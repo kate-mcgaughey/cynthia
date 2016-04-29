@@ -16,6 +16,7 @@
 		<ul>
 			<li>About</li>
 			<li>Repertoire</li>
+			<li>Rates and Terms</li>
 			<li>Testimonials</li>
 			<li>Contact</li>
 		</ul>
