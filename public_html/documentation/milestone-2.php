@@ -30,10 +30,12 @@
 				<p>The Rates and Details page will display a table of costs involved with hiring Cynthia, plus footnotes such as her policy on late payments.</p>
 				<p>The Testimonials page lists quotes from brides who have hired her, conveying that she does a great job.</p>
 				<p>Cynthia is concerned about a stalker-ish ex-boyfriend, so she would prefer a contact submission form over listing her phone number. I will encourage her to set up an email address for her bookings, such as cynthiahodgsonmusic@gmail.com. The Contact page will have four submission fields:</p>
-					<ul>Name - required</ul>
-					<ul>Phone</ul>
-					<ul>Email</ul>
-					<ul>Message - required</ul>
+					<ul>
+						<li>Name - required</li>
+						<li>Phone</li>
+						<li>Email</li>
+						<li>Message - required</li>
+					</ul>
 				<p>I will create a popup diaglog box saying, "You have not entered a method of contact" if the user does not fill in either the phone or email fields.</p>
 
 		</body>
