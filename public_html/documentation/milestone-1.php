@@ -9,6 +9,8 @@
 		<body>
 			<h2>Personal Website Project - Milestone 1</h2>
 
+			<h3> Purpose</h3>
+			
 				<p>This PWP will be for my cousin's wife Cynthia, a violinist. She is seeking a site to promote her professional services.</p>
 
 			<h3>Audience</h3>
