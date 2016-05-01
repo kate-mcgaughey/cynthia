@@ -44,7 +44,7 @@
 
 				<p>Since this will be a single-page design, users have two options for flow. They could scroll down the page, loading each section in succession, which represents the complete, story-like way to view the site. Or, they could use the navigational links at the top to skip between sections, to instantly locate the information they need. For example, Rates and Details falls in the middle of the site, but for some users, such as that of my persona, cost will be the most important consideration. Such a user would use the navigational link at the top to evaluate Cynthia's costs first, then jump around. I hope that a simple, elegant layout will keep such a user from getting overwhelmed.</p>
 
-				<img src="interaction-flow.jpg" alt="Interaction Flow" style="width:280px;height:679px;">
+				<img src="/media/interactionflow.jpg" alt="Interaction Flow" style="width:280px;height:679px;">
 		</body>
 	</html>
 
