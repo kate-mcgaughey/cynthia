@@ -3,7 +3,6 @@
 
 		<head>
 			<meta charset="UTF-8">
-			<link type="text/css" href="css/style.css" rel="stylesheet" />
 			<title>Personal Website Project - Milestone 1</title>
 		</head>
 
@@ -14,11 +13,11 @@
 
 			<h3>Audience</h3>
 
-				<p>This site is designed for people in the northwest Chicago suburbs and southern Wisconsin, (this is where Cynthia lives,) who need to hire a violinist or small ensemble. I expect a large focus to be on wedding accompaniment.</p>
+				<p>This site is designed for people in the northwest Chicago suburbs and southern Wisconsin, (this is where Cynthia lives,) who need to hire a violinist or small ensemble.</p>
 
 			<h3>Goal</h3>
 
-				<p>The end goal is to increase Cynthia's bookings at events such as weddings.</p>
+				<p>The end goal is to increase Cynthia's bookings at events such as weddings, private events, anniversary celebrations, cocktail hours & memorial services.</p>
 
 			<h3>Persona</h3>
 
