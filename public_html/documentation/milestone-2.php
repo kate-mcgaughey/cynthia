@@ -52,6 +52,8 @@
 			
 			<img src="wireframe.png" alt="Wireframe">
 			
+				<p>I do not believe I will have any differences between the desktop and mobile versions of the site.</p>
+			
 		</body>
 	</html>
 
