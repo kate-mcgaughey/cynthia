@@ -31,7 +31,7 @@
 				<p>The <strong>Repertoire</strong> section will list the pieces Cynthia knows and often plays at special events, plus a message about special requests.</p>
 				<p>The <strong>Rates and Details</strong> section will display a table of costs involved with hiring Cynthia, plus footnotes such as her policy on late payments.</p>
 				<p>The <strong>Testimonials</strong> section lists quotes from brides who have hired her, conveying that she does a great job.</p>
-				<p>The <strong>Content</strong> section will include a contact submission form and picture. Cynthia is concerned about a stalker-ish ex-boyfriend, so she would prefer not to list her own information. However, I will encourage her to set up a Google Voice number and an email account for her bookings, such as cynthiahodgsonmusic@gmail.com, that she would feel comfortable list. The Contact page will have four submission fields:</p>
+				<p>The <strong>Content</strong> section will include a contact submission form and picture. The Contact page will have four submission fields:</p>
 					<ul>
 						<li>Name - required</li>
 						<li>Phone</li>
