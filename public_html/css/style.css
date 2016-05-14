@@ -1,0 +1,113 @@
+/********************************************
+* Custom CSS Styles for Basic Mockup Exercise
+*
+* Some CSS rules have been added for you below.
+* Edit and add CSS rules as you see fit! :D
+********************************************/
+
+html,
+body {
+	margin: 20rem;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1170px;
+}
+
+.clear {
+	clear: both;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+/********************************************
+* The "Answer"
+*
+* These are the CSS styles I used to create
+* the mockup layout.
+*
+* This is only one of many ways to create
+* this look.
+*
+* @author rlewis37@cnm.edu
+********************************************/
+
+/* global and utility styles */
+
+body {
+	font-family: sans-serif;
+}
+
+img {
+	border: 5px solid #e1e1e1;
+}
+
+.pull-left {
+	float: left;
+	margin-right: 20px
+}
+
+.pull-right {
+	float: right;
+	margin-left: 20px;
+}
+
+/* header styles */
+
+.navbar {
+	background-color: lightskyblue;
+	padding: 15px 0;
+}
+
+header h1 {
+	margin: 0;
+}
+
+/* main content styles */
+
+main {
+	padding: 30px 0;
+}
+
+.instructions {
+	border: 5px solid #ddd;
+	margin-bottom: 30px;
+	padding: 30px;
+}
+
+.instructions h2 {
+	margin: 0;
+}
+
+section {
+	background-color: lightskyblue;
+	padding: 20px;
+}
+
+/* footer styles */
+
+footer {
+	background-color: black;
+	color: #555;
+	font-style: italic;
+	font-size: 0.8em;
+	padding: 20px 0;
+}
