@@ -2,15 +2,12 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-
 		<!-- sets IE rendering to IE-EDGE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
 		<!-- sets viewport width to device width, scaling 1:1 -->
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 		<!-- Optional theme -->
 		<link rel="stylesheet" href=.....fill this in later....>
@@ -35,34 +32,36 @@
 
 		<title>Cynthia Hodgson Music - Violin performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
 	</head>
-
-	<nav class="navbar navbar-default">
-		<div class="container-fluid">
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Cynthia Hodgson Music</a>
+<body class="sfooter">
+	<!--header and navbar-->
+	<header id="top">
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#">Cynthia Hodgson Music</a>
+				</div>
+				<div class="collapse navbar-collapse" id="main-menu">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="/">Home</a></li>
+						<li><a href="/">Repertoire</a></li>
+						<li><a href="/">Rates and Terms</a></li>
+						<li><a href="/">Testimonials</a></li>
+						<li><a href="/">Contact</a></li>
+					</ul>
+				</div>
 			</div>
-			<div class="collapse navbar-collapse" id="main-menu">
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="/">Home</a></li>
-					<li><a href="/">Repertoire</a></li>
-					<li><a href="/">Rates and Terms</a></li>
-					<li><a href="/">Testimonials</a></li>
-					<li><a href="/">Contact</a></li>
-				</ul>
-			</div><!-- /.navbar-collapse -->
-		</div><!-- /.container-fluid -->
-	</nav>
+		</nav>
+	</header>
+<main>
 
-	<body>
+	<!-- ========================== -->
+	<!--  Section One               -->
+	<!-- ========================== -->
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
 				<div class="foot-content">
-					<img src="image/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
+					<img src="images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
 				</div>
 			</div>
 			<div class="col-md-6">
@@ -73,6 +72,10 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- ========================== -->
+		<!--  Section Two               -->
+		<!-- ========================== -->
 		<h1>Repertoire</h1>
 		<h2>Violin</h2>
 		<ul class="list-group">
@@ -90,6 +93,10 @@
 			<li class="list-group-item">Porta ac consectetur ac</li>
 			<li class="list-group-item">Vestibulum at eros</li>
 		</ul>
+
+		<!-- ========================== -->
+		<!--  Section Three             -->
+		<!-- ========================== -->
 		<h1>Rates and Terms</h1>
 		<p>Please use the contact form at the end of my site to initiate a booking, and I will get back to you promptly via (phone/email?). A two week grace period is allowed from the time of our initial conversation to "hold" the date. If no communication or confirmation has been received, the date will be released to another potential client. I require more than 30 days notice to book ensembles. Events scheduled more than one year in advance may be subject to different musicians. The official ensemble will be confirmed no less than 3 months before the scheduled event. My rates are:</p>
 			<ul>
@@ -102,6 +109,10 @@
 				<li>$25.00 per extra mile travel fee for events not in McHenry County IL or Walworth County WI</li>
 			</ul>
 		<p>Payment is due by the date of the event. A three-day grace period will be allowed after the wedding for payment to be received. After three days there will be a $25 penalty added for each day the payment is past due.</p>
+
+		<!-- ========================== -->
+		<!--  Section Four              -->
+		<!-- ========================== -->
 		<h1>Testimonials from Past Clients</h1>
 			<ul>
 				<p>"Cynthia played our November 2013 wedding at Hawk's View Golf Club in Lake Geneva, Wisconsin. We had a great experience!  My husband and I had met with Cynthia months prior to the ceremony where she listened to what we were looking for and created a music set to match the theme and feel of our wedding. She was a pleasure to work with and played beautiful music during our ceremony and cocktail hour. We were very happy with her and thought that the live music really added a great touch to our special day!"   ~ Angel</p>
@@ -119,13 +130,23 @@
 				<p>"Cynthia Hodgson is passionate about music and this can be felt in her beautiful performances. She has provided many joyful moments for our congregation when she shares her gift of music during worship service. Cynthia is marvelous to work with - she is flexible and upbeat. She is multi-talented musician who has a great understanding of music and is able to inspire all who hear her perform."   ~ Nancy Rasmussen, Director of Music Ministry, Delavan United Church of Christ</p>
 			</ul>
 	</div>
+
+	<!-- ========================== -->
+	<!--  Section Five              -->
+	<!-- ========================== -->
+
+	<!--Contact form-->
+
 	<p>"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything."  - Plato</p>
 	</body>
-	<footer>
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="copyright text-center">
-					<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
+
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="copyright text-center">
+						<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
+					</div>
 				</div>
 			</div>
 		</div>
