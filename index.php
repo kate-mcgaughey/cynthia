@@ -39,31 +39,79 @@
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
 
+			<!-- Collect the nav links, forms, and other content for toggling -->
+
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#">Cynthia Hodgson Music</a>
 			</div>
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">Home</a></li>
-					<li class="active"><a href="#">Repertoire</a></li>
-					<li class="active"><a href="#">Rates and Terms</a></li>
-					<li class="active"><a href="#">Testimonials</a></li>
-					<li class="active"><a href="#">Contact</a></li>
+			<div class="collapse navbar-collapse" id="main-menu">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="/">Home</a></li>
+					<li><a href="/">Repertoire</a></li>
+					<li><a href="/">Rates and Terms</a></li>
+					<li><a href="/">Testimonials</a></li>
+					<li><a href="/">Contact</a></li>
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
 	</nav>
 
 	<body>
-		<p>Thank you for visiting my site! I am a performer with over 20 years experience. For every event I play, I strive to offer you the best musical experience.</p>
-		<p>My musical career began at age four, when I began playing violin. I later learned the piano at age six. I have played in various string ensembles since I was eight. My ensemble experience includes the McHenry County Youth Orchestras and the North Park Symphony Orchestra. In addition, I have played for special services and parties for: St. Thomas the Apostle Church, Willow Creek Community Church, Calvary Community Church, the Delavan United Church of Christ, Friends of the Geneva Theatre, Lake Geneva Horticultural Center, and many private parties and weddings. </p>
-		<img src="" alt="Cynthia hasn't given me her headshot yet"/>
-		<p>"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything."  - Plato</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="foot-content">
+					<img src="image/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="foot-content">
+					<p>Thank you for visiting my site! I am a violin and piano performer with over 20 years experience in solo performance, ensembles, weddings, and private parties. For every event I play, I strive to offer you the best musical experience.</p>
+					<p>As a pianist, I have had the opportunity to play as a soloist and accompanist. My styles of piano playing include classical, jazz, pop/love songs, and ragtime. I am also available to accompany other musicians. Please note that at this time I do request that a piano or keyboard be provided for me. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I am a member of my local church’s praise team, where I serve as violinist, pianist & vocalist for the weekly services. Many blessings to you! I look forward to creating musical memories for your special occasion.</p>
+					<p>Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola, cello, piano, and flute.</p>
+				</div>
+			</div>
+		</div>
+		<h1>Repertoire</h1>
+		<h2>Violin</h2>
+		<ul class="list-group">
+			<li class="list-group-item">Cras justo odio</li>
+			<li class="list-group-item">Dapibus ac facilisis in</li>
+			<li class="list-group-item">Morbi leo risus</li>
+			<li class="list-group-item">Porta ac consectetur ac</li>
+			<li class="list-group-item">Vestibulum at eros</li>
+		</ul>
+		<h2>Piano</h2>
+		<ul class="list-group">
+			<li class="list-group-item">Cras justo odio</li>
+			<li class="list-group-item">Dapibus ac facilisis in</li>
+			<li class="list-group-item">Morbi leo risus</li>
+			<li class="list-group-item">Porta ac consectetur ac</li>
+			<li class="list-group-item">Vestibulum at eros</li>
+		</ul>
+		<h1>Rates and Terms</h1>
+		<p>Please use the contact form at the end of my site to initiate a booking, and I will get back to you promptly via (phone/email?). A two week grace period is allowed from the time of our initial conversation to "hold" the date. If no communication or confirmation has been received, the date will be released to another potential client. I require more than 30 days notice to book ensembles. Events scheduled more than one year in advance may be subject to different musicians. The official ensemble will be confirmed no less than 3 months before the scheduled event. My rates are:</p>
+			<ul>
+				<li>$150.00 per hour (1 hour minimum)</li>
+				<li>$100-150 for the first hour for all other musicians (other musicians will be paid separately from Cynthia.)  Again, events requested less than one month in advance will be solo performances only.</li>
+				<li>$75.00 for each half-hour</li>
+				<li>$50.00 for each quarter hour</li>
+				<li>$40.00 planning fee (if event requested more than 6 months prior)</li>
+				<li>$25.00 planning fee (if event requested less than 6 months prior)</li>
+				<li>$25.00 per extra mile travel fee for events not in McHenry County IL or Walworth County WI</li>
+			</ul>
+		<p>Payment is due by the date of the event. A three-day grace period will be allowed after the wedding for payment to be received. After three days there will be a $25 penalty added for each day the payment is past due.</p>
+	</div>
+	<p>"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything."  - Plato</p>
 	</body>
 	<footer>
-		<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="copyright text-center">
+					<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
+				</div>
+			</div>
+		</div>
 	</footer>
 </html>
