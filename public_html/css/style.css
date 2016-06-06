@@ -1,14 +1,6 @@
 /********************************************
-* Custom CSS Styles for Basic Mockup Exercise
-*
-* Some CSS rules have been added for you below.
-* Edit and add CSS rules as you see fit! :D
+* Custom CSS
 ********************************************/
-
-html,
-body {
-
-}
 
 .container {
 	width: 980px;
@@ -17,11 +9,6 @@ body {
 .clear {
 	clear: both;
 }
-
-/***
-* Flexbox Sticky Footer
-* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-***/
 
 /*corrects IE min-height bug*/
 html { display: flex;}
@@ -40,10 +27,6 @@ body { width: 100%;}
 ********************************************/
 
 /* global and utility styles */
-.top {
-	font-family: "Big Caslon", "Palatino", serif;
-	font-size: 30pt;
-}
 
 body {
 	font-family: "Big Caslon", "Palatino", serif;
@@ -62,24 +45,24 @@ img {
 .img-circle {
 	border-radius: 50%;
 	border: 1px solid #000000;
-	max-width: 83%;
+	max-width: 100%;
 }
 
 .text-center {
-	font-family: "Big Caslon", "Palatino", serif;
-	font-style: italic;
+	font-family: "Sail", "Palatino", serif;
+	font-size: 14pt;
 	padding: 30px;
 }
 
 .text-justify {
-	font-family: "Big Caslon", "Palatino", serif;
-	font-size: 12pt;
+	font-family: "Forum", serif;
+	font-size: 14pt;
 }
 
 /* header styles */
 
 .navbar {
-	font-family: "Big Caslon", "Palatino,";
+	font-family: "Forum", "Big Caslon", "Palatino,";
 	font-size: 16pt;
 	background-color: white;
 	padding: 3px 0;
@@ -87,14 +70,20 @@ img {
 }
 
 .navbar-brand {
-	font-family: "Big Caslon", "Palatino,", serif;
+	font-family: "Sail", "Big Caslon", "Palatino,", serif;
 	font-size: 28pt;
 	padding: 15px 24px;
 	margin: 0;
 }
 
-header h1 {
-	font-family: "Big Caslon", "Palatino", serif;
+.h1 {
+	font-family: "Lancelot", "Palatino", serif;
+	font-size: 16pt;
+	margin: 0;
+}
+
+.h2 {
+	font-family: "Sail", "Palatino", serif;
 	font-size: 16pt;
 	margin: 0;
 }

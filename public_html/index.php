@@ -10,9 +10,7 @@
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
 				integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-		<!-- Optional theme -->
-		<!--		<link rel="stylesheet" href=.....fill this in later....>-->
+		<link href='https://fonts.googleapis.com/css?family=Limelight|Lobster+Two|Overlock|Forum|Flamenco|Sail|Lancelot' rel='stylesheet' type='text/css'>
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,13 +25,25 @@
 		<!-- jQuery -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
 				  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
 
-		<title>Cynthia Hodgson Music - Violin performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
+		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
 
 	</head>
 	<body class="body">
@@ -65,13 +75,13 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<div class="foot-content">
+							<div class="headshot">
 								<img class="img-circle" src="images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
 							</div>
 						</div>
 						<div class="col-md-6">
-							<div class="foot-content">
-								<p class="text-justify">Thank you for visiting my site! I am a violin and piano performer with over 20 years
+							<div class="body-content">
+								<p class="text-justify">Thank you for visiting my site! I am a violin and piano player with over 20 years
 									experience
 									in solo performance, ensembles, weddings, and private parties. For every event I play, I
 									strive
@@ -253,6 +263,59 @@
 			<div id="contact" class="bg-image">
 				<div class="container"
 					<div class="row">
+						<h2>Book me!</h2>
+						<!--Begin Contact Form-->
+						<form id="contact-form" action="php/mailer.php" method="post">
+							<div class="form-group">
+								<label for="name">Name <span class="text-danger">*</span></label>
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-user" aria-hidden="true"></i>
+									</div>
+									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="email">Email <span class="text-danger">*</span></label>
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-envelope" aria-hidden="true"></i>
+									</div>
+									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="subject">Subject</label>
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-pencil" aria-hidden="true"></i>
+									</div>
+									<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="message">Message <span class="text-danger">*</span></label>
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-comment" aria-hidden="true"></i>
+									</div>
+									<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+								</div>
+							</div>
+
+							<!-- reCAPTCHA -->
+							<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+
+							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+						</form>
+
+						<!--empty area for form error/success output-->
+						<div class="row">
+							<div class="col-xs-12">
+								<div id="output-area"></div>
+							</div>
+						</div>
 			<p class="text-center">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1
 			</p>
 		</main>
