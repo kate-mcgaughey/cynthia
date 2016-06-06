@@ -27,7 +27,7 @@ body {
 html { display: flex;}
 body { width: 100%;}
 
-.sfooter {
+.body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -62,7 +62,7 @@ img {
 .img-circle {
 	border-radius: 50%;
 	border: 1px solid #000000;
-	max-width: 85%;
+	max-width: 83%;
 }
 
 .text-center {
@@ -71,6 +71,10 @@ img {
 	padding: 30px;
 }
 
+.text-justify {
+	font-family: "Big Caslon", "Palatino", serif;
+	font-size: 12pt;
+}
 
 /* header styles */
 
@@ -78,13 +82,15 @@ img {
 	font-family: "Big Caslon", "Palatino,";
 	font-size: 16pt;
 	background-color: white;
-	padding: 15px 0;
+	padding: 3px 0;
+	margin: 0;
 }
 
 .navbar-brand {
 	font-family: "Big Caslon", "Palatino,", serif;
 	font-size: 28pt;
 	padding: 15px 24px;
+	margin: 0;
 }
 
 header h1 {
@@ -99,9 +105,16 @@ main {
 
 }
 
-.bg-image {
-	background-color: red;
+.col-md-6 {
+	margin-top: 13rem;
+	margin-bottom: 2rem;
 }
+
+.bg-image {
+	background-color: coral;
+}
+
+
 
 /* footer styles */
 
@@ -110,5 +123,4 @@ footer {
 	color: #555;
 	font-style: italic;
 	font-size: 0.8em;
-	padding: 5px 0;
 }

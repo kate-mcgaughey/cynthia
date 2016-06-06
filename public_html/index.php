@@ -36,10 +36,10 @@
 		<title>Cynthia Hodgson Music - Violin performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
 
 	</head>
-	<body class="sfooter">
+	<body class="body">
 		<!--header and navbar-->
 		<header id="top">
-			<nav class="navbar navbar-default">
+			<nav class="navbar navbar-fixed-top">
 				<div class="container-fluid">
 					<div class="navbar-header">
 						<a class="navbar-brand" href="#">Cynthia Hodgson Music</a>
@@ -71,12 +71,12 @@
 						</div>
 						<div class="col-md-6">
 							<div class="foot-content">
-								<p>Thank you for visiting my site! I am a violin and piano performer with over 20 years
+								<p class="text-justify">Thank you for visiting my site! I am a violin and piano performer with over 20 years
 									experience
 									in solo performance, ensembles, weddings, and private parties. For every event I play, I
 									strive
 									to offer you the best musical experience.</p>
-								<p>As a pianist, I have had the opportunity to play as a soloist and accompanist. My styles of
+								<p class="text-justify">As a pianist, I have had the opportunity to play as a soloist and accompanist. My styles of
 									piano playing include classical, jazz, pop/love songs, and ragtime. I am also available to
 									accompany other musicians. Please note that at this time I do request that a piano or
 									keyboard
@@ -87,7 +87,7 @@
 									the weekly services. Many blessings to you! I look forward to creating musical memories for
 									your
 									special occasion.</p>
-								<p>Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva
+								<p class="text-justify">Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva
 									Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola, cello,
 									piano,
 									and flute.</p>
@@ -103,39 +103,40 @@
 			<!-- ========================== -->
 			<!--  Section Two               -->
 			<!-- ========================== -->
-			<div id="repertoire" class="container">
-				<div class="row">
-					<h1>Repertoire</h1>
-					<h2>Violin</h2>
-					<ul class="list-group">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Morbi leo risus</li>
-						<li class="list-group-item">Porta ac consectetur ac</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-					</ul>
-					<h2>Piano</h2>
-					<ul class="list-group">
-						<li class="list-group-item">Cras justo odio</li>
-						<li class="list-group-item">Dapibus ac facilisis in</li>
-						<li class="list-group-item">Morbi leo risus</li>
-						<li class="list-group-item">Porta ac consectetur ac</li>
-						<li class="list-group-item">Vestibulum at eros</li>
-					</ul>
-					<p class="text-center">"To play a wrong note is insignificant. To play without passion is inexcusable."    - Ludwig von Beethoven
-					</p>
-				</div>
+			<div id="repertoire" class="bg-image">
+				<div class="container"
+					<div class="row">
+						<h1>Repertoire</h1>
+						<h2>Violin</h2>
+						<ul class="list-group">
+							<li class="list-group-item">Cras justo odio</li>
+							<li class="list-group-item">Dapibus ac facilisis in</li>
+							<li class="list-group-item">Morbi leo risus</li>
+							<li class="list-group-item">Porta ac consectetur ac</li>
+							<li class="list-group-item">Vestibulum at eros</li>
+						</ul>
+						<h2>Piano</h2>
+						<ul class="list-group">
+							<li class="list-group-item">Cras justo odio</li>
+							<li class="list-group-item">Dapibus ac facilisis in</li>
+							<li class="list-group-item">Morbi leo risus</li>
+							<li class="list-group-item">Porta ac consectetur ac</li>
+							<li class="list-group-item">Vestibulum at eros</li>
+						</ul>
+						<p class="text-center">"To play a wrong note is insignificant. To play without passion is inexcusable."    - Ludwig von Beethoven
+						</p>
+					</div>
 			</div>
 
 			<!-- ========================== -->
 			<!--  Section Three             -->
 			<!-- ========================== -->
-			<div id="rates and terms" class="bg-image"
-				  <div class="container">
-						<div class="row">
-							<h1>Rates and Terms</h1>
+			<div id="rates and terms" class="bg-image">
+				<div class="container">
+					<div class="row">
+						<h1>Rates and Terms</h1>
 							<p>Please use the contact form at the end of my site to initiate a booking, and I will get back to you
-								promptly via (phone/email?). A two week grace period is allowed from the time of our initial
+								promptly via email. A two week grace period is allowed from the time of our initial
 								conversation to "hold" the date. If no communication or confirmation has been received, the date
 								will be released to another potential client. I require more than 30 days notice to book ensembles.
 								Events scheduled more than one year in advance may be subject to different musicians. The official
@@ -150,7 +151,7 @@
 								<li>$50.00 for each quarter hour</li>
 								<li>$40.00 planning fee (if event requested more than 6 months prior)</li>
 								<li>$25.00 planning fee (if event requested less than 6 months prior)</li>
-								<li>$25.00 per extra mile travel fee for events not in McHenry County IL or Walworth County WI</li>
+								<li>$25.00 per extra mile travel fee for events not in McHenry County, IL or Walworth County, WI</li>
 							</ul>
 							<p>Payment is due by the date of the event. A three-day grace period will be allowed after the wedding
 								for payment to be received. After three days there will be a $25 penalty added for each day the
@@ -249,9 +250,9 @@
 			<!-- ========================== -->
 			<!--  Section Five              -->
 			<!-- ========================== -->
-
-			<!--Create contact form-->
-
+			<div id="contact" class="bg-image">
+				<div class="container"
+					<div class="row">
 			<p class="text-center">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1
 			</p>
 		</main>
