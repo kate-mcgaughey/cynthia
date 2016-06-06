@@ -47,12 +47,19 @@
 
 	</head>
 	<body class="body">
-		<!--header and navbar-->
+
+		<!--Navbar-->
 		<header id="top">
 			<nav class="navbar navbar-fixed-top">
 				<div class="container-fluid">
 					<div class="navbar-header">
-						<a class="navbar-brand" href="#">Cynthia Hodgson Music</a>
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#home">Cynthia Hodgson Music</a>
 					</div>
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
@@ -76,27 +83,21 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="headshot">
-								<img class="img-circle" src="images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
+								<img class="img-circle img-responsive" src="images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
 							</div>
 						</div>
 						<div class="col-md-6">
-							<div class="body-content">
-								<p class="text-justify">Thank you for visiting my site! I am a violin and piano player with over 20 years
-									experience
-									in solo performance, ensembles, weddings, and private parties. For every event I play, I
-									strive
-									to offer you the best musical experience.</p>
+							<div class="home-content">
+								<p class="text-justify">Thank you for visiting my site! I am a violin and piano player from Woodstock with over 20 years
+									experience in solo performance, ensembles, weddings, and private parties. For every event I play, I
+									strive to offer you the best musical experience.</p>
 								<p class="text-justify">As a pianist, I have had the opportunity to play as a soloist and accompanist. My styles of
 									piano playing include classical, jazz, pop/love songs, and ragtime. I am also available to
 									accompany other musicians. Please note that at this time I do request that a piano or
-									keyboard
-									be provided for me. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I
-									am
-									a member of my local church’s praise team, where I serve as violinist, pianist, and vocalist
-									for
-									the weekly services. Many blessings to you! I look forward to creating musical memories for
-									your
-									special occasion.</p>
+									keyboard be provided for me. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I
+									am a member of my local church’s praise team, where I serve as violinist, pianist, and vocalist
+									for the weekly services. Many blessings to you! I look forward to creating musical memories for
+									your special occasion.</p>
 								<p class="text-justify">Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva
 									Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola, cello,
 									piano,
@@ -263,52 +264,56 @@
 			<div id="contact" class="bg-image">
 				<div class="container"
 					<div class="row">
-						<h2>Book me!</h2>
 						<!--Begin Contact Form-->
-						<form id="contact-form" action="php/mailer.php" method="post">
-							<div class="form-group">
-								<label for="name">Name <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-user" aria-hidden="true"></i>
+						<div id="contact" class="bg-image">
+							<div class="container">
+								<div class="col-md-6 col-md-offset-3">
+									<h2>Book me!</h2>
+									<!--Begin Contact Form-->
+									<form id="contact-form" action="php/mailer.php" method="post">
+										<div class="form-group">
+											<label for="name">Name <span class="text-danger">*</span></label>
+											<div class="input-group">
+												<div class="input-group-addon">
+													<i class="fa fa-user" aria-hidden="true"></i>
+												</div>
+												<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="email">Email <span class="text-danger">*</span></label>
+											<div class="input-group">
+												<div class="input-group-addon">
+													<i class="fa fa-envelope" aria-hidden="true"></i>
+												</div>
+												<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+											</div>
+										</div>
+										<div class="form-group">
+											<label for="message">Message <span class="text-danger">*</span></label>
+											<div class="input-group">
+												<div class="input-group-addon">
+													<i class="fa fa-comment" aria-hidden="true"></i>
+												</div>
+												<textarea class="form-control" rows="5" id="message" name="message" placeholder="Please tell me a little about your needs, including the type of event and date, if set. (2000 characters max)"></textarea>
+											</div>
+										</div>
+										​
+										<!-- reCAPTCHA -->
+										<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"><div><div style="width: 304px; height: 78px;"><iframe src="https://www.google.com/recaptcha/api2/anchor?k=--YOUR%20RECAPTCHA%20SITE%20KEY--&amp;co=aHR0cHM6Ly9ib290Y2FtcC1jb2RlcnMuY25tLmVkdTo0NDM.&amp;hl=en&amp;v=r20160531110558&amp;size=normal&amp;cb=nkmjm1feiiqn" title="recaptcha widget" width="304" height="78" role="presentation" frameborder="0" scrolling="no" name="undefined"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
+										​
+										<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+										<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+									</form>
+									​
+									<!--empty area for form error/success output-->
+									<div class="row">
+										<div class="col-xs-12">
+											<div id="output-area"></div>
+										</div>
 									</div>
-									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 								</div>
 							</div>
-							<div class="form-group">
-								<label for="email">Email <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-envelope" aria-hidden="true"></i>
-									</div>
-									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="subject">Subject</label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-pencil" aria-hidden="true"></i>
-									</div>
-									<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="message">Message <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-comment" aria-hidden="true"></i>
-									</div>
-									<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
-								</div>
-							</div>
-
-							<!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
-
-							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-						</form>
 
 						<!--empty area for form error/success output-->
 						<div class="row">
