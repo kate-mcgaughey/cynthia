@@ -141,6 +141,7 @@
 				</div>
 			</div>
 		</section>
+
 		<!-- ========================== -->
 		<!--  Section Three             -->
 		<!-- ========================== -->
@@ -166,6 +167,7 @@
 				</div>
 			</div>
 		</section>
+
 		<!-- ========================== -->
 		<!--  Section Four              -->
 		<!-- ========================== -->
@@ -193,74 +195,67 @@
 				</div>
 			</div>
 		</section>
+
 		<!-- ========================== -->
 		<!--  Section Five              -->
 		<!-- ========================== -->
-		<section class="parallax" data-stellar-background-ratio="1.5" id="home" style="background-position: 50% -60px;>
-				<div class=" container-fluid
-		"
-		<div class="row">
-			<!--Begin Contact Form-->
-			<div id="contact" class="bg-image">
-				<div class="container">
-					<div class="col-md-6 col-md-offset-3">
-						<h1>Book me!</h1>
-						<!--Begin Contact Form-->
-						<form id="contact-form" action="php/mailer.php" method="post">
-							<div class="form-group">
-								<label for="name">Name <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-user" aria-hidden="true"></i>
+		<section class="parallax" data-stellar-background-ratio="1.5" id="contact">
+			<div class="row">
+				<!--Begin Contact Form-->
+				<div id="contact" class="bg-image">
+					<div class="container">
+						<div class="col-md-6 col-md-offset-3">
+							<h1>Book me!</h1>
+							<!--Begin Contact Form-->
+							<form id="contact-form" action="php/mailer.php" method="post">
+								<div class="form-group">
+									<label for="name">Name <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-user" aria-hidden="true"></i>
+										</div>
+										<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 									</div>
-									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 								</div>
-							</div>
-							<div class="form-group">
-								<label for="email">Email <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-envelope" aria-hidden="true"></i>
+								<div class="form-group">
+									<label for="email">Email <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-envelope" aria-hidden="true"></i>
+										</div>
+										<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 									</div>
-									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 								</div>
-							</div>
-							<div class="form-group">
-								<label for="message">Message <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-comment" aria-hidden="true"></i>
+								<div class="form-group">
+									<label for="message">Message <span class="text-danger">*</span></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-comment" aria-hidden="true"></i>
+										</div>
+										<textarea class="form-control" rows="5" id="message" name="message"
+													 placeholder="Please tell me a little about your needs, including the type of event and date, if set. (2000 characters max)"></textarea>
 									</div>
-									<textarea class="form-control" rows="5" id="message" name="message"
-												 placeholder="Please tell me a little about your needs, including the type of event and date, if set. (2000 characters max)"></textarea>
 								</div>
-							</div>
-							​  <!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="6LdPBCITAAAAAGhdX0mJM4OcGsUgqYoCrXsx3AP9"></div>
+								​  <!-- reCAPTCHA -->
+								<div class="g-recaptcha" data-sitekey="6LdPBCITAAAAAGhdX0mJM4OcGsUgqYoCrXsx3AP9"></div>
+								​
+								<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+								<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+							</form>
 							​
-							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-						</form>
-						​
-						<!--empty area for form error/success output-->
-						<div class="row">
-							<div class="col-xs-12">
-								<div id="output-area"></div>
+							<!--empty area for form error/success output-->
+							<div class="row">
+								<div class="col-xs-12">
+									<div id="output-area"></div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<!--empty area for form error/success output-->
-		<div class="row">
 			<div class="col-xs-12">
-				<div id="output-area"></div>
+				<p class="text-center quote">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1</p>
 			</div>
-		</div>
-		<div class="col-xs-12">
-			<p class="text-center quote">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1
-		</p>
 		</section>
 
 		<!-- ========================== -->
