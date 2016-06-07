@@ -66,7 +66,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="#home">
-							<img src="images/214512.png" alt="Brand" class="logo img-responsive">
+							<img src="logo 1.jpg" alt="Brand" class="logo img-responsive">
 							Cynthia Hodgson Music
 						</a>
 					</div>
