@@ -104,13 +104,14 @@
 									and flute.</p>
 							</div>
 						</div>
-						<p class="text-center">"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to
-							everything."    - Plato
-						</p>
 					</div>
 				</div>
 			</div>
-
+			<div class="col-xs-12">
+				<p class="blockquote">"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to
+					everything."    - Plato
+				</p>
+			</div>
 			<!-- ========================== -->
 			<!--  Section Two               -->
 			<!-- ========================== -->
