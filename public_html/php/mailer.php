@@ -3,10 +3,7 @@
  * require all composer dependencies; requiring the autoload file loads all composer packages at once
  **/
 require_once(dirname(dirname(__DIR__)) . "/vendor/autoload.php");
-
-// your reCAPTCHA keys here
-$siteKey = 'YOUR RECAPTCHA SITE KEY HERE';
-$secret = 'YOUR RECAPTCHA SECRET KEY HERE';
+require_once ("mailer-config.php");
 
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
@@ -23,7 +20,7 @@ try {
 	// this assumes jQuery (not Angular will be submitting the form, so we're using the $_POST superglobal
 	$name = filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
-	$subject = filter_input(INPUT_POST, "subject", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
+	$subject = "New contact from your website";
 	$message = filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 
 	// create Swift message
@@ -38,10 +35,11 @@ try {
 	 * notice this an array that can include or omit the the recipient's real name
 	 * use the recipients' real name where possible; this reduces the probability of the Email being marked as spam
 	 **/
-	$recipients = ["email@mail.com" => "Recipient Name"];
+	$recipients = $MAIL_RECIPIENTS;
 	$swiftMessage->setTo($recipients);
 
 	// attach the subject line to the message
+	// want to create generic subject line
 	$swiftMessage->setSubject($subject);
 
 	/**
@@ -74,7 +72,7 @@ try {
 	}
 
 	// report a successful send
-	echo "&lt;div class=\"alert alert-success\" role=\"alert\"&gt;Email successfully sent.&lt;/div&gt;";
+	echo "&lt;div class=\"alert alert-success\" role=\"alert\"&gt;Message successfully sent. Expect a response soon!&lt;/div&gt;";
 
 } catch(Exception $exception) {
 	echo "&lt;div class=\"alert alert-danger\" role=\"alert\"&gt;&lt;strong&gt;Oh snap!&lt;/strong&gt; Unable to send email: " . $exception->getMessage() . "&lt;/div&gt;";
