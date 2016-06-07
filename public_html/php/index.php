@@ -20,7 +20,7 @@
 		<![endif]-->
 
 		<!-- OUR CUSTOM CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<link rel="stylesheet" href="../css/style.css" type="text/css">
 
 		<!-- jQuery -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
@@ -83,7 +83,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="headshot">
-								<img class="img-circle img-responsive" src="images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
+								<img class="img-circle img-responsive" src="../images/cynthia-home-picture.jpg" alt="Cynthia's headshot"/>
 							</div>
 						</div>
 						<div class="col-md-6">
