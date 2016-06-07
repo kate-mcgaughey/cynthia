@@ -4,8 +4,8 @@
 * @author Kate McGaughey therealmcgaughey@gmail.com
 ********************************************/
 
-/*. is by class*/
-/*# is by id*/
+/* . is by class*/
+/* # is by id*/
 
 /* Global and utility styles */
 
@@ -14,12 +14,9 @@ html, body {
 	font-size: 18px;
 }
 
-img {
+.headshot {
 	border: 1px solid #000000;
-}
-
-.img-circle {
-	border: 1px solid #000000;
+	margin-top: 74px;
 }
 
 .quote {
@@ -43,9 +40,9 @@ img {
 a {
 	color: #ED6A5A;
 	font-family: "Forum", serif;
+	font-size: 22px;
 	background-color: white;
 }
-
 
 /* Navbar styles */
 
@@ -54,6 +51,9 @@ a {
 	font-size: 28pt;
 	padding: 15px 24px;
 	color: #ED6A5A;
+}
+.logo {
+	max-height: 50px;
 }
 
 .navbar {
@@ -73,8 +73,6 @@ span.icon-bar {
 
 /* Main content styles */
 
-
-
 .bg-image {
 	background-color: coral;
 }
@@ -93,19 +91,49 @@ h2 {
 }
 
 #home {
-	background: url("../images/background-1.png") no-repeat center center fixed;
+	background: url("../images/background 1-40.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 74px;
+	min-height: 100vh;
 }
 
-.repertoire {
-	/*background: ________ no-repeat center center fixed;*/
+#repertoire {
+	background: url("../images/background 2-40.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	padding-top: 74px;
+	min-height: 100vh;
+}
+
+#rates-and-terms {
+	background: url("../images/background 3-30.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 74px;
+	min-height: 100vh;
+}
+
+#testimonials {
+	background-color: #ED6A5A;
+	padding-top: 74px;
+	min-height: 100vh;
+}
+
+#contact {
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 11.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 74px;
+	min-height: 100vh;
 }
 
 /* Footer styles */
