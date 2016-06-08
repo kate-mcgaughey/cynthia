@@ -256,8 +256,10 @@
 							sang during the service.  I will forever remember that special day in my life as all details,
 							including the music, made it so magical!  ~ Pam</p>
 					</div>
-					<img class="img-responsive" src="images/border1green.png"
-						  alt="border"/>
+					<div class="col-xs-12">
+						<img class="center-block border" src="images/border1green.png"
+							  alt="border"/>
+					</div>
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
 						<h1>Testimonials from Fellow Musicians and Worship Leaders</h1>
 						<p>"Cynthia is great to work with. Her passion and gifting in music is evident. Her level of
@@ -288,12 +290,12 @@
 			<div id="contact">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-4">
+						<div class="col-md-4 p-t-4">
 							<img class="img-circle img-responsive" src="images/pic 5.jpg" alt="Cynthia's picture"/>
 						</div>
-						<div class="col-md-6 col-md-offset-2">
+						<!--Begin Contact Form-->
+						<div class="col-md-7">
 							<h1>Book me!</h1>
-							<!--Begin Contact Form-->
 							<form id="contact-form" action="php/mailer.php" method="post">
 								<div class="form-group">
 									<label for="name">Name <span class="text-danger">*</span></label>

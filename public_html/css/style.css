@@ -39,6 +39,10 @@ a {
 	background-color: white;
 }
 
+.border {
+	padding-top: 2em;
+}
+
 /* Navbar styles */
 
 .navbar-brand {
@@ -72,13 +76,9 @@ span.icon-bar {
 
 /* Main content styles */
 
-.bg-image {
-	background-color: coral;
-}
-
 h1 {
 	font-family: "Sail", "Palatino", serif;
-	font-size: 26pt;
+	font-size: 3em;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
 }
@@ -134,8 +134,17 @@ h2 {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 40px;
+	padding-top: 20px;
 	min-height: 100vh;
+}
+
+#center-block {
+	padding-top: 80px;
+	horiz-align: center;
+}
+
+.p-t-4 {
+	padding-top: 6rem;
 }
 
 /* Footer styles */
