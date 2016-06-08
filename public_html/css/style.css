@@ -15,8 +15,11 @@ html, body {
 }
 
 .headshot {
-	border: .1px solid #000000;
 	margin-top: 74px;
+}
+
+.img-circle {
+	border: 1px solid #000000;
 }
 
 .quote {
@@ -27,14 +30,6 @@ html, body {
 
 .text-justify {
 	font-family: "Forum", serif;
-}
-
-.blockquote {
-	background-color: coral;
-	font-family: "Forum", serif;
-	font-style: italic;
-	margin: 0;
-	padding: 2em 2em;
 }
 
 a {
@@ -57,7 +52,7 @@ a {
 }
 
 .navbar {
-	color: #ED6A5A; !important;
+	color: white !important;
 	font-family: "Forum", serif;
 	background-color: white;
 	padding: 3px 0;
@@ -127,12 +122,12 @@ h2 {
 }
 
 #contact {
-	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 11.jpg") no-repeat center center fixed;
+	background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../images/background 11.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 74px;
+	padding-top: 40px;
 	min-height: 100vh;
 }
 

@@ -47,6 +47,8 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
+		<script src="js/stellar.js"></script>
 
 		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding
 			Violinist</title>
@@ -166,12 +168,10 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
 						<h1>Rates and Terms</h1>
-						<p>Please use the contact form at the end of my site to initiate a booking, and I will get back to you
-							promptly via email. A two week grace period is allowed from the time of our initial conversation to
-							"hold" the date. If no communication or confirmation has been received, the date will be released
-							to another potential client. I require more than 30 days notice to book ensembles. Events scheduled
-							more than one year in advance may be subject to different musicians. The official ensemble will be
-							confirmed no less than 3 months before the scheduled event. My rates are:</p>
+						<p>Please use the contact form at the end of my site to initiate a booking, and I will get back to you promptly via email.</p>
+						<p>A two week grace period is allowed from the time of our initial conversation to "hold" the date. If no communication or confirmation has been received, the date will be released to another potential client.</p>
+						<p>I require more than 30 days notice to book ensembles. Events scheduled more than one year in advance may be subject to different musicians. The official ensemble will be confirmed no less than 3 months before the scheduled event.</p>
+						<p>My rates are:</p>
 						<ul>
 							<li>$150.00 per hour (1 hour minimum)</li>
 							<li>$100-150 for the first hour for all other musicians (other musicians will be paid separately
@@ -219,7 +219,7 @@
 							barely remember what happens during throughout the day because it goes by so fast, but one of the
 							things I do remember is the music being played as I was walking down the aisle with my father. It
 							is most memorable! We also had a lot of our guests tell us that the music during the ceremony was
-							the perfect touch and it couldn't have been better in any way." ~ Oceana</p>
+							the perfect touch and it couldn't have been better in any way."   ~ Oceana</p>
 						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she
 							was absolutely a joy to work with in planning music. I was clueless when it came to wedding music,
 							and she guided me through each step of the way with patience and professionalism. When it came to
@@ -284,7 +284,7 @@
 		<!--  Section Five              -->
 		<!-- ========================== -->
 		<section class="parallax" data-stellar-background-ratio="1.5" id="contact">
-			<div id="contact" class="bg-image">
+			<div id="contact">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
@@ -338,10 +338,9 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-xs-12">
-				<p class="text-center quote">"My heart, O God, is steadfast; I will sing & make music with all my soul." -
-					Psalm 108:1</p>
+				<div class="col-xs-12">
+					<p class="text-center quote">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1</p>
+				</div>
 			</div>
 		</section>
 
