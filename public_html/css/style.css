@@ -44,18 +44,22 @@ a {
 .navbar-brand {
 	font-family: "Sail", "Big Caslon", "Palatino,", serif;
 	font-size: 28pt;
-	padding: 15px 24px;
+	padding: 0em 1em;
 	color: #ED6A5A;
 }
+
 .logo {
 	max-height: 50px;
 }
 
 .navbar {
-	color: white !important;
 	font-family: "Forum", serif;
 	background-color: white;
 	padding: 3px 0;
+	-webkit-box-shadow: 10px 10px 10px grey;
+	-moz-box-shadow:    10px 10px 10px grey;
+	box-shadow:         10px 10px 10px grey;
+	z-index:999;
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
@@ -86,7 +90,7 @@ h2 {
 }
 
 #home {
-	background: url("../images/background 1-40.png") no-repeat center center fixed;
+	background:  linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 6.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -96,7 +100,7 @@ h2 {
 }
 
 #repertoire {
-	background: url("../images/background 2-40.png") no-repeat center center fixed;
+	background: url("../images/background 1.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -106,7 +110,7 @@ h2 {
 }
 
 #rates-and-terms {
-	background: url("../images/background 3-30.png") no-repeat center center fixed;
+	background: url("../images/background 3.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -116,13 +120,16 @@ h2 {
 }
 
 #testimonials {
-	background-color: #ED6A5A;
+	background:  linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../images/background-testimonials.jpg") no-repeat center center fixed;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	padding-top: 74px;
 	min-height: 100vh;
 }
 
 #contact {
-	background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("../images/background 11.jpg") no-repeat center center fixed;
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 5.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

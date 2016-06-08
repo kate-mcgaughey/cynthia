@@ -47,8 +47,8 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
-		<script src="js/stellar.js"></script>
+<!--		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>-->
+<!--		<script src="js/stellar.js"></script>-->
 
 		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding
 			Violinist</title>
@@ -68,8 +68,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="#home">
-							<img src="logo 1.jpg" alt="Brand" class="logo img-responsive">
-							Cynthia Hodgson Music
+							<img src="images/brand 1.png" alt="Brand" class="logo img-responsive">
 						</a>
 					</div>
 					<div class="collapse navbar-collapse" id="main-menu">
@@ -196,7 +195,7 @@
 		<!-- ========================== -->
 		<!--  Section Four              -->
 		<!-- ========================== -->
-		<section class="parallax" data-stellar-background-ratio="1.5" id="testimonials">
+		<section id="testimonials">
 			<div class=" container-fluid">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
@@ -257,6 +256,8 @@
 							sang during the service.  I will forever remember that special day in my life as all details,
 							including the music, made it so magical!  ~ Pam</p>
 					</div>
+					<img class="img-responsive" src="images/border1green.png"
+						  alt="border"/>
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
 						<h1>Testimonials from Fellow Musicians and Worship Leaders</h1>
 						<p>"Cynthia is great to work with. Her passion and gifting in music is evident. Her level of
@@ -288,7 +289,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<img class="img-circle img-responsive" src="images/picture 3.jpg" alt="Cynthia's picture"/>
+							<img class="img-circle img-responsive" src="images/pic 5.jpg" alt="Cynthia's picture"/>
 						</div>
 						<div class="col-md-6 col-md-offset-2">
 							<h1>Book me!</h1>
