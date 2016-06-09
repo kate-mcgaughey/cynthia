@@ -51,7 +51,7 @@
 				  crossorigin="anonymous"></script>
 <!--		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>-->
 <!--		<script src="js/stellar.js"></script>-->
-<!--I ended up commenting stellar.js out because it makes scrolling unsmooth! But I am relying on defaults that it imported, so I didn't just get rid of it.-->
+<!--I ended up commenting stellar.js out because it makes scrolling really choppy! But I am relying on defaults that it imported, so I didn't just get rid of it.-->
 		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding
 			Violinist</title>
 	</head>
