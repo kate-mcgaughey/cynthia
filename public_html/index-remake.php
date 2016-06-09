@@ -49,7 +49,7 @@
 				  crossorigin="anonymous"></script>
 <!--		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>-->
 <!--		<script src="js/stellar.js"></script>-->
-
+<!--I ended up commenting stellar.js out because it makes scrolling unsmooth! But I am relying on defaults that it imported, so I didn't just get rid of it.-->
 		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding
 			Violinist</title>
 	</head>
@@ -96,7 +96,7 @@
 					</div>
 					<div class="col-md-7">
 						<h1>Welcome!</h1>
-						<p class="text-justify">Thank you for visiting my site! I am a violin and piano player from Woodstock
+						<p class="text-justify lead">Thank you for visiting my site! I am a violin and piano player from Woodstock
 							with over 20 years experience in solo performance, ensembles, weddings, and private parties. For
 							every event, I strive to offer you the best musical experience.</p>
 						<p class="text-justify">I have had the opportunity to play as a soloist and accompanist. My styles of
@@ -206,10 +206,20 @@
 							wedding. She was a pleasure to work with and played beautiful music during our ceremony and
 							cocktail hour. We were very happy with her and thought that the live music really added a great
 							touch to our special day!"   ~ Angel</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border7green.png"
+								  alt="border"/>
+							<!--						Rochelle, I know you commented that I had something weird going on here, but I got center-block out of the Bootstrap documentation. @see http://getbootstrap.com/css/#images-responsive.-->
+
+						</div>
 						<p>"After hearing Cynthia play at my friend’s wedding, I knew I wanted her to play for my ceremony as
 							well. Cynthia and another violinist played for my wedding in at the Holiday Inn Crystal Lake on
 							August 2, 2014. Cynthia was amazing and it was such a special and personal touch for my wedding
 							day!"   ~ Sara</p>
+						<div class="col-md-8">
+							<img class="img-responsive feature-photo" src="images/cynthia-testimonials-picture.jpg"
+								  alt="Cynthia group"/>
+						</div>
 						<p>"The music Cynthia played for our wedding ceremony added an element that could not be duplicated by
 							anyone else. The string music created a romantic and elegant setting outdoors by the water. Cynthia
 							is very professional, she answered every e-mail promptly and was very assuring with sincerity as I
@@ -219,11 +229,19 @@
 							things I do remember is the music being played as I was walking down the aisle with my father. It
 							is most memorable! We also had a lot of our guests tell us that the music during the ceremony was
 							the perfect touch and it couldn't have been better in any way."   ~ Oceana</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
+								  alt="border"/>
+						</div>
 						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she
 							was absolutely a joy to work with in planning music. I was clueless when it came to wedding music,
 							and she guided me through each step of the way with patience and professionalism. When it came to
 							the day of the wedding the music was simply gorgeous and added so much to our special day." ~
 							Rachel</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border3green.png"
+								  alt="border"/>
+						</div>
 						<p>"When my original wedding plans changed due a family illness, we called countless area musicians
 							before finding Cynthia. I didn't know if she would be willing to play for us on such short notice,
 							but not only was she available, she also organized the entire musical layout for us in less than a
@@ -233,6 +251,10 @@
 							“Ave Maria” instead of playing it and had even asked our wedding planner for an umbrella so her
 							instrument could stay dry enough to play our recessional. Cynthia is one of the most caring,
 							compassionate and insanely talented people I’ve ever met." ~ Victoria</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border4green.png"
+								  alt="border"/>
+						</div>
 						<p>"I decided to take the music planning into my own hands for our wedding. I had no clue what I was
 							doing and only had mentioned to Cynthia that I really had liked a few contemporary pieces my wife
 							and I listened to on the radio. Classical music wasn't really our style and we wanted music that
@@ -241,15 +263,27 @@
 							responded to all our questions and didn't laugh at how clueless we were when it came to classical
 							music. Cynthia worked with us to select music to reflect our style and also still make it her own
 							too.”  ~ Brian</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border5green.png"
+								  alt="border"/>
+						</div>
 						<p>"Cynthia played our wedding at the Geneva Inn.  We had originally planned on hiring a DJ, but I'm
 							so glad we chose live music instead. We had a small ceremony, but the music added so much to this.
 							Originally we had hired Cynthia only for the ceremony, but at the very last minute we asked if she
 							could stay for cocktail hour as well. Not only did Cynthia play an extra hour for us at the last
 							minute, she also spoke to the restaurant pianist and played and sang for us so we could actually
 							have a "first dance" (which we had not planned on doing.) It was amazing!” ~ Megan</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border6green.png"
+								  alt="border"/>
+						</div>
 						<p>"Cynthia's presence and talent made our party (my parent’s anniversary celebration) come to life.
 							She is open to suggestions and requests. I'm planning on using her for our wedding ceremony this
-							year." ~ Michelle
+							year." ~ Michelle</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border1green.png"
+								  alt="border"/>
+						</div>
 						<p>"Because I had previously heard Cynthia perform and seen her amazing talents, she was the first one
 							who came to mind to provide music at our wedding.  The violin pre-service music was simply
 							beautiful.  I had written some customized lyrics for my husband to the song Evergreen that Cynthia
@@ -257,11 +291,15 @@
 							including the music, made it so magical!  ~ Pam</p>
 					</div>
 					<div class="col-xs-12">
-						<img class="center-block border" src="images/border1green.png"
+						<img class="center-block img-responsive border" src="images/border1green.png"
 							  alt="border"/>
 					</div>
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
 						<h1>Testimonials from Fellow Musicians and Worship Leaders</h1>
+						<div class="col-md-6">
+							<img class="img-responsive feature-photo" src="images/pic 7.jpg"
+								  alt="Cynthia group"/>
+						</div>
 						<p>"Cynthia is great to work with. Her passion and gifting in music is evident. Her level of
 							flexibility is admirable. Working with her on a consistent basis has been a pleasure and a delight
 							because she brings such joy to our team. I look forward to leading worship with her on Sundays.
@@ -291,7 +329,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 p-t-4">
-							<img class="img-circle img-responsive" src="images/pic 5.jpg" alt="Cynthia's picture"/>
+							<img class="img-circle img-responsive" src="images/cynthia-contact-picture.jpg" alt="Cynthia's picture"/>
 						</div>
 						<!--Begin Contact Form-->
 						<div class="col-md-7">
@@ -353,7 +391,7 @@
 		<footer class="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12">
+					<div class="text-center col-xs-12">
 						<div class="copyright text-footer">
 							<small>© 2016 by Kate McGaughey, therealmcgaughey@gmail.com</small>
 						</div>

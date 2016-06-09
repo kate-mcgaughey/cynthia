@@ -41,6 +41,12 @@ a {
 
 .border {
 	padding-top: 2em;
+	horiz-align: center;
+}
+
+.quote-border {
+	padding-bottom: .5em;
+	horiz-align: center;
 }
 
 /* Navbar styles */
@@ -78,7 +84,7 @@ span.icon-bar {
 
 h1 {
 	font-family: "Sail", "Palatino", serif;
-	font-size: 3em;
+	font-size: 2em;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
 }
@@ -100,7 +106,7 @@ h2 {
 }
 
 #repertoire {
-	background: url("../images/background 1.png") no-repeat center center fixed;
+	background: url("../images/cynthia-repertoire-background.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -110,7 +116,7 @@ h2 {
 }
 
 #rates-and-terms {
-	background: url("../images/background 3.png") no-repeat center center fixed;
+	background: url("../images/cynthia-rates-and-terms-background.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,7 +126,7 @@ h2 {
 }
 
 #testimonials {
-	background:  linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../images/background-testimonials.jpg") no-repeat center center fixed;
+	background:  linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)), url("../images/background-testimonials.jpg") no-repeat center center fixed;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
@@ -138,20 +144,18 @@ h2 {
 	min-height: 100vh;
 }
 
-#center-block {
-	padding-top: 80px;
-	horiz-align: center;
-}
-
 .p-t-4 {
 	padding-top: 6rem;
+}
+
+.feature-photo {
+	border: 1px solid #000000;
 }
 
 /* Footer styles */
 
 footer {
-	background-color: floralwhite;
-	color: grey;
+	background-color: #ED6A5A;
 	font-style: italic;
 	font-size: 0.8em;
 	padding: 0;
@@ -160,5 +164,5 @@ footer {
 
 .text-footer {
 	font-family: "Sail", serif;
-	padding: 10px;
+	padding-bottom: 10px;
 }
