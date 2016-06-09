@@ -201,6 +201,12 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<h1>Testimonials from Past Clients</h1>
+						<p>Cynthia was the perfect choice for our wedding ceremony music!  From the start she was able to offer suggestions, or if I knew the tune she could quickly point me in the right direction of the song.  Her communication made me feel confident she would arrive promptly for the big day and she even assembled another musician to work with her.  Everything was flawless, I highly recommend Cynthia.   ~ Anne</p>
+						<div class="col-xs-12">
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
+								  alt="border"/>
+							<!--Rochelle, I know you commented that I had something weird going on here, but I got center-block out of the Bootstrap documentation. @see http://getbootstrap.com/css/#images-responsive.-->
+						</div>
 						<p>"Cynthia played our November 2013 wedding at Hawk's View Golf Club in Lake Geneva, Wisconsin. We
 							had a great experience!  My husband and I had met with Cynthia months prior to the ceremony where
 							she listened to what we were looking for and created a music set to match the theme and feel of our
@@ -210,7 +216,6 @@
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
-							<!--						Rochelle, I know you commented that I had something weird going on here, but I got center-block out of the Bootstrap documentation. @see http://getbootstrap.com/css/#images-responsive.-->
 						</div>
 						<p>"After hearing Cynthia play at my friend’s wedding, I knew I wanted her to play for my ceremony as
 							well. Cynthia and another violinist played for my wedding in at the Holiday Inn Crystal Lake on
