@@ -23,8 +23,8 @@
 	padding: 3px 0;
 	-webkit-box-shadow: 10px 10px 10px grey;
 	-moz-box-shadow:    10px 10px 10px grey;
-	box-shadow:         10px 10px 10px grey;
 	/*I know I am supposed to end with known values here but the shadow looks wrong when I do*/
+	box-shadow:         10px 10px 10px grey;
 	z-index:999;
 }
 
