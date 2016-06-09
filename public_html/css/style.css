@@ -7,48 +7,6 @@
 /* . is by class*/
 /* # is by id*/
 
-/* Global and utility styles */
-
-html, body {
-	font-family: "Forum", "Palatino", serif;
-	font-size: 18px;
-}
-
-.headshot {
-	margin-top: 74px;
-}
-
-.img-circle {
-	border: 1px solid #000000;
-}
-
-.quote {
-	font-family: "Sail", "Palatino", serif;
-	padding: 30px;
-	font-size: 1.3rem;
-}
-
-.text-justify {
-	font-family: "Forum", serif;
-}
-
-a {
-	color: #ED6A5A;
-	font-family: "Forum", serif;
-	font-size: 22px;
-	background-color: white;
-}
-
-.border {
-	padding-top: 2em;
-	horiz-align: center;
-}
-
-.quote-border {
-	padding-bottom: .5em;
-	horiz-align: center;
-}
-
 /* Navbar styles */
 
 .navbar-brand {
@@ -81,6 +39,60 @@ span.icon-bar {
 }
 
 /* Main content styles */
+
+html, body {
+	font-family: "Forum", "Palatino", serif;
+	font-size: 18px;
+}
+
+.headshot {
+	margin-top: 74px;
+}
+
+.img-circle {
+	border: 1px solid #000000;
+}
+
+.feature-photo {
+	border: 1px solid #000000;
+}
+
+.minor-photo {
+	/*border: 1px solid #000000;*/
+	padding-bottom: 3em;
+	padding-right: 2em;
+}
+
+.p-t-4 {
+	padding-top: 6rem;
+}
+
+.text-justify {
+	font-family: "Forum", serif;
+}
+
+a {
+	color: #ED6A5A;
+	font-family: "Forum", serif;
+	font-size: 22px;
+	background-color: white;
+}
+
+.quote {
+	font-family: "Sail", "Palatino", serif;
+	padding: 30px;
+	font-size: 1.3rem;
+}
+
+.border {
+	padding-top: 2em;
+	horiz-align: center;
+}
+
+.quote-border {
+	padding-bottom: .5em;
+	horiz-align: center;
+}
 
 h1 {
 	font-family: "Sail", "Palatino", serif;
@@ -142,14 +154,6 @@ h2 {
 	background-size: cover;
 	padding-top: 20px;
 	min-height: 100vh;
-}
-
-.p-t-4 {
-	padding-top: 6rem;
-}
-
-.feature-photo {
-	border: 1px solid #000000;
 }
 
 /* Footer styles */

@@ -126,27 +126,27 @@
 		<section class="parallax" data-stellar-background-ratio="1.5" id="repertoire">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-md-3 col-md-offset-2">
 						<h1>Repertoire</h1>
-						<h2>Violin</h2>
+						<h2>String Ensemble</h2>
 						<ul class="list-group">
-							<li class="list-group-item">Cras justo odio</li>
-							<li class="list-group-item">Dapibus ac facilisis in</li>
-							<li class="list-group-item">Morbi leo risus</li>
-							<li class="list-group-item">Porta ac consectetur ac</li>
-							<li class="list-group-item">Vestibulum at eros</li>
+							<li class="list-group-item">"All You Need is Love" ~ The Beatles</li>
+							<li class="list-group-item">"10,000 Reasons" ~ Christina Perri</li>
+							<li class="list-group-item">Contemporary Christian selections</li>
+							<li class="list-group-item">Christmas/Holiday favorites</li>
+							<li class="list-group-item">Folk & fiddle tunes</li>
 						</ul>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
-						<h2>Piano</h2>
+					<div class="col-md-5 col-md-offset-2">
+						<h2>Solo Piano</h2>
 						<ul class="list-group">
-							<li class="list-group-item">Cras justo odio</li>
-							<li class="list-group-item">Dapibus ac facilisis in</li>
-							<li class="list-group-item">Morbi leo risus</li>
-							<li class="list-group-item">Porta ac consectetur ac</li>
-							<li class="list-group-item">Vestibulum at eros</li>
+							<li class="list-group-item">Ragtime favorites including "Maple Leaf Rag" & "The Entertainer"</li>
+							<li class="list-group-item">Contemporary & classic love songs</li>
+							<li class="list-group-item">Classical selections including "Moonlight Sonata" & "Fur Elise"</li>
+							<li class="list-group-item">Accompaniment for soloists & ensembles</li>
+							<li class="list-group-item">Original renditions of popular songs</li>
 						</ul>
 					</div>
 				</div>
@@ -207,10 +207,9 @@
 							cocktail hour. We were very happy with her and thought that the live music really added a great
 							touch to our special day!"   ~ Angel</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border7green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 							<!--						Rochelle, I know you commented that I had something weird going on here, but I got center-block out of the Bootstrap documentation. @see http://getbootstrap.com/css/#images-responsive.-->
-
 						</div>
 						<p>"After hearing Cynthia play at my friend’s wedding, I knew I wanted her to play for my ceremony as
 							well. Cynthia and another violinist played for my wedding in at the Holiday Inn Crystal Lake on
@@ -232,14 +231,13 @@
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
-						</div>
 						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she
 							was absolutely a joy to work with in planning music. I was clueless when it came to wedding music,
 							and she guided me through each step of the way with patience and professionalism. When it came to
 							the day of the wedding the music was simply gorgeous and added so much to our special day." ~
 							Rachel</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border3green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
 						<p>"When my original wedding plans changed due a family illness, we called countless area musicians
@@ -252,7 +250,7 @@
 							instrument could stay dry enough to play our recessional. Cynthia is one of the most caring,
 							compassionate and insanely talented people I’ve ever met." ~ Victoria</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border4green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
 						<p>"I decided to take the music planning into my own hands for our wedding. I had no clue what I was
@@ -264,7 +262,7 @@
 							music. Cynthia worked with us to select music to reflect our style and also still make it her own
 							too.”  ~ Brian</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border5green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
 						<p>"Cynthia played our wedding at the Geneva Inn.  We had originally planned on hiring a DJ, but I'm
@@ -274,14 +272,14 @@
 							minute, she also spoke to the restaurant pianist and played and sang for us so we could actually
 							have a "first dance" (which we had not planned on doing.) It was amazing!” ~ Megan</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border6green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
 						<p>"Cynthia's presence and talent made our party (my parent’s anniversary celebration) come to life.
 							She is open to suggestions and requests. I'm planning on using her for our wedding ceremony this
 							year." ~ Michelle</p>
 						<div class="col-xs-12">
-							<img class="center-block img-responsive quote-border" src="images/border1green.png"
+							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
 						<p>"Because I had previously heard Cynthia perform and seen her amazing talents, she was the first one
@@ -290,32 +288,29 @@
 							sang during the service.  I will forever remember that special day in my life as all details,
 							including the music, made it so magical!  ~ Pam</p>
 					</div>
-					<div class="col-xs-12">
-						<img class="center-block img-responsive border" src="images/border1green.png"
-							  alt="border"/>
+					<img class="center-block img-responsive border" src="images/border1green.png"
+						  alt="border"/>
 					</div>
+
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
-						<h1>Testimonials from Fellow Musicians and Worship Leaders</h1>
-						<div class="col-md-6">
-							<img class="img-responsive feature-photo" src="images/pic 7.jpg"
-								  alt="Cynthia group"/>
-						</div>
-						<p>"Cynthia is great to work with. Her passion and gifting in music is evident. Her level of
-							flexibility is admirable. Working with her on a consistent basis has been a pleasure and a delight
-							because she brings such joy to our team. I look forward to leading worship with her on Sundays.
-							Having a great musician isn't just in their ability to play, but in their ability to adjust to the
-							people they are working with. She does this well."   ~ Robert Cager, Worship Minister, Woodstock
-							Assembly of God
-						<p>"Cynthia is a fantastic musician who has shared her gift of music with our congregation in worship
-							many times.  She is delightful to work with and brings a wide range of talent.  We always look
-							forward to having her enhance our worship with music. She is creative, flexible and thoughtful in
-							her choice of selections to share.  I highly recommend her."  ~ Rev. Laura McLeod, Senior Pastor,
-							Delavan United Church of Christ</p>
-						<p>"Cynthia Hodgson is passionate about music and this can be felt in her beautiful performances. She
-							has provided many joyful moments for our congregation when she shares her gift of music during
-							worship service. Cynthia is marvelous to work with - she is flexible and upbeat. She is
-							multi-talented musician who has a great understanding of music and is able to inspire all who hear
-							her perform." ~ Nancy Rasmussen, Director of Music Ministry, Delavan United Church of Christ</p>
+
+					<h1>Testimonials from Worship Leaders</h1>
+					<div class="col-md-6">
+						<img class="img-responsive minor-photo" src="images/pic 7.jpg"
+							  alt="Cynthia group"/>
+					</div>
+					<p>"Cynthia is a fantastic musician who has shared her gift of music with our congregation in worship
+						many times.  She is delightful to work with and brings a wide range of talent.  We always look
+						forward to having her enhance our worship with music. She is creative, flexible and thoughtful in
+						her choice of selections to share.  I highly recommend her."</p>
+					<p>~ Rev. Laura McLeod, Senior Pastor,
+					Delavan United Church of Christ</p>
+					<p>"Cynthia Hodgson is passionate about music and this can be felt in her beautiful performances. She
+						has provided many joyful moments for our congregation when she shares her gift of music during
+						worship service. Cynthia is marvelous to work with - she is flexible and upbeat. She is
+						multi-talented musician who has a great understanding of music and is able to inspire all who hear
+						her perform."</p>
+					<p>~ Nancy Rasmussen, Director of Music Ministry, Delavan United Church of Christ</p>
 					</div>
 				</div>
 			</div>
