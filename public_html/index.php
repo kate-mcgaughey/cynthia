@@ -101,8 +101,7 @@
 						<p class="text-justify lead">Thank you for visiting my site! I am a violin and piano player from Woodstock
 							with over 20 years experience in solo performance, ensembles, weddings, and private parties. For
 							every event, I strive to offer you the best musical experience.</p>
-						<p class="text-justify">I have had the opportunity to play as a soloist and accompanist. My styles of
-							piano playing include classical, jazz, pop/love songs, and ragtime. I am also available to
+						<p class="text-justify">I have had the opportunity to play as a soloist and accompanist. I am also available to
 							accompany other musicians. Please note that at this time I do request that a piano or keyboard be
 							provided for me. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I am a
 							member of my local church’s praise team, where I serve as violinist, pianist, and vocalist for the
@@ -129,7 +128,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-3 col-md-offset-2">
-						<h1>Repertoire</h1>
+						<h1>Sample Repertoire</h1>
 						<h2>String Ensemble</h2>
 						<ul class="list-group">
 							<li class="list-group-item">"All You Need is Love" ~ The Beatles</li>
