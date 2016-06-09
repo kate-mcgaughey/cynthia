@@ -104,7 +104,7 @@ h2 {
 }
 
 #home {
-	background:  linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 6.jpg") no-repeat center center fixed;
+	background:  linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/cynthia-home-background.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -134,7 +134,7 @@ h2 {
 }
 
 #testimonials {
-	background:  linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)), url("../images/background-testimonials.jpg") no-repeat center center fixed;
+	background:  linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)), url("../images/cynthia-testimonials-background.jpg") no-repeat center center fixed;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
@@ -143,7 +143,7 @@ h2 {
 }
 
 #contact {
-	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/background 5.jpg") no-repeat center center fixed;
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/cynthia-contact-background.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

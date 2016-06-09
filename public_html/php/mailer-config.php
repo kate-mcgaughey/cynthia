@@ -20,4 +20,4 @@ $secret = '6LdPBCITAAAAAExXOTmXEnvuR23y6h4JEYBRZ5pu';
  * notice this an array that can include or omit the the recipient's real name
  * use the recipients' real name where possible; this reduces the probability of the Email being marked as spam
  **/
-$MAIL_RECIPIENTS = ["cmhodgson228@gmail.com" => "Cynthia Hodgson"];
+$MAIL_RECIPIENTS = ["cmhodgson228@gmail.com" => "Cynthia Hodgson", "therealmcgaughey@gmail.com" => "Kate McGaughey"];
