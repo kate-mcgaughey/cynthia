@@ -12,7 +12,7 @@
 .navbar-brand {
 	font-family: "Sail", "Big Caslon", "Palatino,", serif;
 	font-size: 28pt;
-	padding: 0em 1em;
+	padding: 0 1em;
 	color: #ED6A5A;
 }
 
@@ -27,6 +27,7 @@
 	-webkit-box-shadow: 10px 10px 10px grey;
 	-moz-box-shadow:    10px 10px 10px grey;
 	box-shadow:         10px 10px 10px grey;
+	/*I know I am supposed to end with known values here but the shadow looks wrong when I do*/
 	z-index:999;
 }
 
@@ -34,7 +35,7 @@
 	background-color: transparent;
 }
 
-span.icon-bar {
+.icon-bar {
 	background-color: coral;
 }
 
@@ -86,12 +87,10 @@ a {
 
 .border {
 	padding-top: 2em;
-	horiz-align: center;
 }
 
 .quote-border {
 	padding-bottom: .5em;
-	horiz-align: center;
 }
 
 h1 {
