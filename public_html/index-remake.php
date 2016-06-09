@@ -355,7 +355,7 @@
 											<i class="fa fa-comment" aria-hidden="true"></i>
 										</div>
 										<textarea class="form-control" rows="5" id="message" name="message"
-													 placeholder="Please tell me a little about your needs, including the type of event and date, if set. (2000 characters max"></textarea>
+													 placeholder="Please tell me a little about your needs, including the type of event and date, if set. (2000 characters max.)"></textarea>
 									</div>
 								</div>
 								​  <!-- reCAPTCHA -->
