@@ -42,6 +42,8 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src='https://www.google.com/recaptcha/api/verify'></script>
+<!--		My reCAPTCHA wasn't working consistently because the images weren't popping up after the first validation. The Google documentation said this dependency was required as well. Added it and it works.-->
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
