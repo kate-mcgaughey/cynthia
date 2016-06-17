@@ -52,8 +52,7 @@
 <!--		<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>-->
 <!--		<script src="js/stellar.js"></script>-->
 <!--I ended up commenting stellar.js out because it makes scrolling really choppy! But I am relying on defaults that it imported, so I didn't just get rid of it.-->
-		<title>Cynthia Hodgson Music - Violin and piano performance and accompaniment in Woodstock, IL - Wedding
-			Violinist</title>
+		<title>Violin, piano, and vocal performance and accompaniment in Woodstock, IL - Wedding Violinist</title>
 	</head>
 	<body class="body">
 
@@ -97,19 +96,13 @@
 							  alt="Cynthia's headshot"/>
 					</div>
 					<div class="col-md-7">
-						<h1>Welcome!</h1>
-						<p class="text-justify lead">Thank you for visiting my site! I am a violin and piano player from Woodstock
+						<h1>Welcome</h1>
+						<p class="text-justify">Thank you for visiting my site! I am a violinist, pianist, and vocalist from Woodstock
 							with over 20 years experience in solo performance, ensembles, weddings, and private parties. For
 							every event, I strive to offer you the best musical experience.</p>
-						<p class="text-justify">I have had the opportunity to play as a soloist and accompanist. I am also available to
-							accompany other musicians. Please note that at this time I do request that a piano or keyboard be
-							provided for me. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I am a
-							member of my local church’s praise team, where I serve as violinist, pianist, and vocalist for the
-							weekly services. Many blessings to you! I look forward to creating musical memories for your
-							special occasion.</p>
-						<p class="text-justify">Should you be requesting an ensemble, the other musicians are also members of
-							the Lake Geneva Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola,
-							cello, piano, and flute.</p>
+						<p class="text-justify">I have had the opportunity to play as a soloist and accompanist. I am also available to accompany other musicians. I have sung for sporting games, funerals, weddings, and church services. I am vocally trained in classical and pop styles. Currently, I am a violinist with the Lake Geneva Symphony. In addition, I am a member of my local church's praise team, where I serve as violinist, pianist, and vocalist for the weekly services. </p>
+						<p class="text-justify">Please note that at this time I do request that a piano or keyboard be provided for me. Should you be requesting an ensemble, the other musicians are also members of the Lake Geneva Symphony Orchestra or other area ensembles. My ensemble can cover violin, viola, cello, piano, and flute.</p>
+						<p class="text-justify">Many blessings to you! I look forward to creating musical memories for your special occasion.</p>
 					</div>
 				</div>
 				<div class="row">
