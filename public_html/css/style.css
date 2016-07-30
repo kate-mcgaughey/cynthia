@@ -52,7 +52,7 @@ html, body {
 }
 
 .feature-photo {
-	padding-top: 1.75em;
+	padding-top: 1.5em;
 	padding-bottom: 1.75em;
 	padding-right: 1.75em;
 	/*border: 1px solid #000000;*/
@@ -60,8 +60,7 @@ html, body {
 
 .minor-photo {
 	/*border: 1px solid #000000;*/
-	/*padding-bottom: 3em;*/
-	padding-bottom: 1.75em;
+	padding-bottom: 3em;
 	padding-right: 1.75em;
 }
 
