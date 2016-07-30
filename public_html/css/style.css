@@ -52,13 +52,13 @@ html, body {
 }
 
 .feature-photo {
-	border: 1px solid #000000;
 	padding: 2em;
+	/*border: 1px solid #000000;*/
 }
 
 .minor-photo {
 	/*border: 1px solid #000000;*/
-	padding-bottom: 3em;
+	/*padding-bottom: 3em;*/
 	padding: 2em;
 }
 
