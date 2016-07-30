@@ -287,7 +287,7 @@
 							sang during the service.  I will forever remember that special day in my life as all details,
 							including the music, made it so magical!  ~ Pam</p>
 					</div>
-					<img class="center-block img-responsive border" src="images/border1green.png"
+					<img class="center-block img-responsive quote-border" src="images/border1green.png"
 						  alt="border"/>
 					</div>
 
