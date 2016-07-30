@@ -167,9 +167,7 @@
 						<p>My rates are:</p>
 						<ul>
 							<li>$150.00 per hour (1 hour minimum)</li>
-							<li>$100-150 for the first hour for all other musicians (other musicians will be paid separately
-								from Cynthia.) Again, events requested less than one month in advance will be solo performances
-								only.
+							<li>$100-150 for the first hour for all other musicians (other musicians will be paid separately from Cynthia.) Again, events requested less than one month in advance will be solo performances only.
 							</li>
 							<li>$75.00 for each half-hour</li>
 							<li>$50.00 for each quarter hour</li>
@@ -178,9 +176,7 @@
 							<li>$25.00 per extra mile travel fee for events not in McHenry County, IL or Walworth County, WI
 							</li>
 						</ul>
-						<p>Payment is due by the date of the event. A three-day grace period will be allowed after the wedding
-							for payment to be received. After three days there will be a $25 penalty added for each day the
-							payment is past due.</p>
+						<p>Payment is due by the date of the event. A three-day grace period will be allowed after the wedding for payment to be received. After three days there will be a $25 penalty added for each day the payment is past due.</p>
 					</div>
 				</div>
 			</div>
@@ -194,101 +190,56 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<h1>Testimonials from Past Clients</h1>
-						<p>Cynthia was the perfect choice for our wedding ceremony music!  From the start she was able to offer suggestions, or if I knew the tune she could quickly point me in the right direction of the song.  Her communication made me feel confident she would arrive promptly for the big day and she even assembled another musician to work with her.  Everything was flawless, I highly recommend Cynthia.   ~ Anne</p>
+						<p>Cynthia was the perfect choice for our wedding ceremony music! From the start she was able to offer suggestions, or if I knew the tune she could quickly point me in the right direction of the song. Her communication made me feel confident she would arrive promptly for the big day and she even assembled another musician to work with her. Everything was flawless, I highly recommend Cynthia. ~ Anne</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 							<!--Rochelle, I know you commented that I had something weird going on here, but I got center-block out of the Bootstrap documentation. @see http://getbootstrap.com/css/#images-responsive.-->
 						</div>
-						<p>"Cynthia played our November 2013 wedding at Hawk's View Golf Club in Lake Geneva, Wisconsin. We
-							had a great experience!  My husband and I had met with Cynthia months prior to the ceremony where
-							she listened to what we were looking for and created a music set to match the theme and feel of our
-							wedding. She was a pleasure to work with and played beautiful music during our ceremony and
-							cocktail hour. We were very happy with her and thought that the live music really added a great
-							touch to our special day!"   ~ Angel</p>
+						<p>"Cynthia played our November 2013 wedding at Hawk's View Golf Club in Lake Geneva, Wisconsin. We had a great experience! My husband and I had met with Cynthia months prior to the ceremony where she listened to what we were looking for and created a music set to match the theme and feel of our wedding. She was a pleasure to work with and played beautiful music during our ceremony and cocktail hour. We were very happy with her and thought that the live music really added a great touch to our special day!"   ~ Angel</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"After hearing Cynthia play at my friend’s wedding, I knew I wanted her to play for my ceremony as
-							well. Cynthia and another violinist played for my wedding in at the Holiday Inn Crystal Lake on
-							August 2, 2014. Cynthia was amazing and it was such a special and personal touch for my wedding
-							day!"   ~ Sara</p>
+						<p>"After hearing Cynthia play at my friend’s wedding, I knew I wanted her to play for my ceremony as well. Cynthia and another violinist played for my wedding in at the Holiday Inn Crystal Lake on August 2, 2014. Cynthia was amazing and it was such a special and personal touch for my wedding day!"   ~ Sara</p>
 						<div class="col-md-8">
 							<img class="img-responsive feature-photo" src="images/cynthia-testimonials-picture.jpg"
 								  alt="Cynthia group"/>
 						</div>
-						<p>"The music Cynthia played for our wedding ceremony added an element that could not be duplicated by
-							anyone else. The string music created a romantic and elegant setting outdoors by the water. Cynthia
-							is very professional, she answered every e-mail promptly and was very assuring with sincerity as I
-							had so many questions, and she made things stress-free! If you are looking for a string musician to
-							add to your wedding I would recommend her. People say that your own wedding is a blur and you can
-							barely remember what happens during throughout the day because it goes by so fast, but one of the
-							things I do remember is the music being played as I was walking down the aisle with my father. It
-							is most memorable! We also had a lot of our guests tell us that the music during the ceremony was
-							the perfect touch and it couldn't have been better in any way."   ~ Oceana</p>
+						<p>"The music Cynthia played for our wedding ceremony added an element that could not be duplicated by anyone else. The string music created a romantic and elegant setting outdoors by the water. Cynthia is very professional, she answered every e-mail promptly and was very assuring with sincerity as I had so many questions, and she made things stress-free! If you are looking for a string musician to add to your wedding I would recommend her. People say that your own wedding is a blur and you can barely remember what happens during throughout the day because it goes by so fast, but one of the things I do remember is the music being played as I was walking down the aisle with my father. It is most memorable! We also had a lot of our guests tell us that the music during the ceremony was the perfect touch and it couldn't have been better in any way."   ~ Oceana</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
-						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she
-							was absolutely a joy to work with in planning music. I was clueless when it came to wedding music,
-							and she guided me through each step of the way with patience and professionalism. When it came to
-							the day of the wedding the music was simply gorgeous and added so much to our special day." ~
+						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she was absolutely a joy to work with in planning music. I was clueless when it came to wedding music, and she guided me through each step of the way with patience and professionalism. When it came to the day of the wedding the music was simply gorgeous and added so much to our special day." ~
 							Rachel</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"When my original wedding plans changed due a family illness, we called countless area musicians
-							before finding Cynthia. I didn't know if she would be willing to play for us on such short notice,
-							but not only was she available, she also organized the entire musical layout for us in less than a
-							day! Not only did she play for the ceremony, but she was also very helpful in calming a nervous
-							bride's spirit. It ended up raining during the middle of our ceremony and I was so nervous Cynthia
-							wouldn't be able to play her violin due to the conditions. She surprised everyone by SINGING the
-							“Ave Maria” instead of playing it and had even asked our wedding planner for an umbrella so her
-							instrument could stay dry enough to play our recessional. Cynthia is one of the most caring,
-							compassionate and insanely talented people I’ve ever met." ~ Victoria</p>
+						<p>"When my original wedding plans changed due a family illness, we called countless area musicians before finding Cynthia. I didn't know if she would be willing to play for us on such short notice, but not only was she available, she also organized the entire musical layout for us in less than a day! Not only did she play for the ceremony, but she was also very helpful in calming a nervous bride's spirit. It ended up raining during the middle of our ceremony and I was so nervous Cynthia wouldn't be able to play her violin due to the conditions. She surprised everyone by SINGING the “Ave Maria” instead of playing it and had even asked our wedding planner for an umbrella so her instrument could stay dry enough to play our recessional. Cynthia is one of the most caring, compassionate and insanely talented people I’ve ever met." ~ Victoria</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"I decided to take the music planning into my own hands for our wedding. I had no clue what I was
-							doing and only had mentioned to Cynthia that I really had liked a few contemporary pieces my wife
-							and I listened to on the radio. Classical music wasn't really our style and we wanted music that
-							was a little bit different. Not only did Cynthia work with our pianist in planning the playlist,
-							she ended up playing an incredible classical version of our favorite song as well. Cynthia
-							responded to all our questions and didn't laugh at how clueless we were when it came to classical
-							music. Cynthia worked with us to select music to reflect our style and also still make it her own
-							too.”  ~ Brian</p>
+						<p>"I decided to take the music planning into my own hands for our wedding. I had no clue what I was doing and only had mentioned to Cynthia that I really had liked a few contemporary pieces my wife and I listened to on the radio. Classical music wasn't really our style and we wanted music that was a little bit different. Not only did Cynthia work with our pianist in planning the playlist, she ended up playing an incredible classical version of our favorite song as well. Cynthia responded to all our questions and didn't laugh at how clueless we were when it came to classical music. Cynthia worked with us to select music to reflect our style and also still make it her own too.”  ~ Brian</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"Cynthia played our wedding at the Geneva Inn.  We had originally planned on hiring a DJ, but I'm
-							so glad we chose live music instead. We had a small ceremony, but the music added so much to this.
-							Originally we had hired Cynthia only for the ceremony, but at the very last minute we asked if she
-							could stay for cocktail hour as well. Not only did Cynthia play an extra hour for us at the last
-							minute, she also spoke to the restaurant pianist and played and sang for us so we could actually
-							have a "first dance" (which we had not planned on doing.) It was amazing!” ~ Megan</p>
+						<p>"Cynthia played our wedding at the Geneva Inn.  We had originally planned on hiring a DJ, but I'm so glad we chose live music instead. We had a small ceremony, but the music added so much to this. Originally we had hired Cynthia only for the ceremony, but at the very last minute we asked if she could stay for cocktail hour as well. Not only did Cynthia play an extra hour for us at the last minute, she also spoke to the restaurant pianist and played and sang for us so we could actually have a "first dance" (which we had not planned on doing.) It was amazing!” ~ Megan</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"Cynthia's presence and talent made our party (my parent’s anniversary celebration) come to life.
-							She is open to suggestions and requests. I'm planning on using her for our wedding ceremony this
-							year." ~ Michelle</p>
+						<p>"Cynthia's presence and talent made our party (my parent’s anniversary celebration) come to life. She is open to suggestions and requests. I'm planning on using her for our wedding ceremony this year." ~ Michelle</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
 						</div>
-						<p>"Because I had previously heard Cynthia perform and seen her amazing talents, she was the first one
-							who came to mind to provide music at our wedding.  The violin pre-service music was simply
-							beautiful.  I had written some customized lyrics for my husband to the song Evergreen that Cynthia
-							sang during the service.  I will forever remember that special day in my life as all details,
-							including the music, made it so magical!  ~ Pam</p>
+						<p>"Because I had previously heard Cynthia perform and seen her amazing talents, she was the first one who came to mind to provide music at our wedding.  The violin pre-service music was simply beautiful.  I had written some customized lyrics for my husband to the song Evergreen that Cynthia sang during the service.  I will forever remember that special day in my life as all details, including the music, made it so magical!  ~ Pam</p>
 					</div>
-					<img class="center-block img-responsive quote-border" src="images/border1green.png"
-						  alt="border"/>
+<!--					<img class="center-block img-responsive quote-border" src="images/border1green.png"-->
+<!--						  alt="border"/>-->
 					</div>
 
 					<div class="col-md-offset-2 col-md-8 col-md-offset-2">
@@ -298,17 +249,10 @@
 						<img class="img-responsive minor-photo" src="images/pic 7.jpg"
 							  alt="Cynthia group"/>
 					</div>
-					<p>"Cynthia is a fantastic musician who has shared her gift of music with our congregation in worship
-						many times.  She is delightful to work with and brings a wide range of talent.  We always look
-						forward to having her enhance our worship with music. She is creative, flexible and thoughtful in
-						her choice of selections to share.  I highly recommend her."</p>
+					<p>"Cynthia is a fantastic musician who has shared her gift of music with our congregation in worship many times.  She is delightful to work with and brings a wide range of talent.  We always look forward to having her enhance our worship with music. She is creative, flexible and thoughtful in her choice of selections to share.  I highly recommend her."</p>
 					<p>~ Rev. Laura McLeod, Senior Pastor,
 					Delavan United Church of Christ</p>
-					<p>"Cynthia Hodgson is passionate about music and this can be felt in her beautiful performances. She
-						has provided many joyful moments for our congregation when she shares her gift of music during
-						worship service. Cynthia is marvelous to work with - she is flexible and upbeat. She is
-						multi-talented musician who has a great understanding of music and is able to inspire all who hear
-						her perform."</p>
+					<p>"Cynthia Hodgson is passionate about music and this can be felt in her beautiful performances. She has provided many joyful moments for our congregation when she shares her gift of music during worship service. Cynthia is marvelous to work with - she is flexible and upbeat. She is multi-talented musician who has a great understanding of music and is able to inspire all who hear her perform."</p>
 					<p>~ Nancy Rasmussen, Director of Music Ministry, Delavan United Church of Christ</p>
 					</div>
 				</div>
