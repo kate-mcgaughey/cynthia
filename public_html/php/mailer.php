@@ -20,7 +20,7 @@ try {
 	// this assumes jQuery (not Angular will be submitting the form, so we're using the $_POST superglobal
 	$name = filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
-	$subject = "New contact from your website";
+	$subject = "Update from cynthiahodgsonmusic.com";
 	$message = filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 
 	// create Swift message
