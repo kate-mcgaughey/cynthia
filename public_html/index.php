@@ -279,7 +279,7 @@
 										<div class="input-group-addon">
 											<i class="fa fa-user" aria-hidden="true"></i>
 										</div>
-										<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+										<input type="text" class="form-control" id="name" name="name">
 									</div>
 								</div>
 								<div class="form-group">
@@ -288,7 +288,7 @@
 										<div class="input-group-addon">
 											<i class="fa fa-envelope" aria-hidden="true"></i>
 										</div>
-										<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+										<input type="email" class="form-control" id="email" name="email">
 									</div>
 								</div>
 								<div class="form-group">
