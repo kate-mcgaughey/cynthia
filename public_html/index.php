@@ -190,7 +190,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<h1>Testimonials from Past Clients</h1>
-						<p>Cynthia was the perfect choice for our wedding ceremony music! From the start she was able to offer suggestions, or if I knew the tune she could quickly point me in the right direction of the song. Her communication made me feel confident she would arrive promptly for the big day and she even assembled another musician to work with her. Everything was flawless, I highly recommend Cynthia. ~ Anne</p>
+						<p>"Cynthia was the perfect choice for our wedding ceremony music! From the start she was able to offer suggestions, or if I knew the tune she could quickly point me in the right direction of the song. Her communication made me feel confident she would arrive promptly for the big day and she even assembled another musician to work with her. Everything was flawless, I highly recommend Cynthia." ~ Anne</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
@@ -210,7 +210,7 @@
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
 								  alt="border"/>
-						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, an she was absolutely a joy to work with in planning music. I was clueless when it came to wedding music, and she guided me through each step of the way with patience and professionalism. When it came to the day of the wedding the music was simply gorgeous and added so much to our special day." ~
+						<p>"The Abbey Resort listed Cynthia on their preferred vendor’s list as a classical musician, and she was absolutely a joy to work with in planning music. I was clueless when it came to wedding music, and she guided me through each step of the way with patience and professionalism. When it came to the day of the wedding the music was simply gorgeous and added so much to our special day." ~
 							Rachel</p>
 						<div class="col-xs-12">
 							<img class="center-block img-responsive quote-border" src="images/border2green.png"
