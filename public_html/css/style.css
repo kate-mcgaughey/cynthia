@@ -53,13 +53,13 @@ html, body {
 
 .feature-photo {
 	border: 1px solid #000000;
-	padding-right: 2em;
+	padding: 2em;
 }
 
 .minor-photo {
 	/*border: 1px solid #000000;*/
 	padding-bottom: 3em;
-	padding-right: 2em;
+	padding: 2em;
 }
 
 .p-t-4 {
