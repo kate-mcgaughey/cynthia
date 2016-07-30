@@ -21,10 +21,10 @@
 	font-family: "Forum", serif;
 	background-color: white;
 	padding: 3px 0;
-	-webkit-box-shadow: 10px 10px 10px grey;
-	-moz-box-shadow:    10px 10px 10px grey;
+	-webkit-box-shadow: 5px 5px 5px 5px grey;
+	-moz-box-shadow:    5px 5px 5px 5px grey;
 	/*I know I am supposed to end with known values here but the shadow looks wrong when I do*/
-	box-shadow:         10px 10px 10px grey;
+	box-shadow:         5px 5px 5px 5px grey;
 	z-index:999;
 }
 
@@ -40,7 +40,7 @@
 
 html, body {
 	font-family: "Forum", "Palatino", serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .headshot {
