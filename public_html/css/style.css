@@ -52,17 +52,17 @@ html, body {
 }
 
 .feature-photo {
-	padding-top: 2em;
-	padding-bottom: 2em;
-	padding-right: 2em;
+	padding-top: 1.75em;
+	padding-bottom: 1.75em;
+	padding-right: 1.75em;
 	/*border: 1px solid #000000;*/
 }
 
 .minor-photo {
 	/*border: 1px solid #000000;*/
 	/*padding-bottom: 3em;*/
-	padding-top: 2em;
-	padding-right: 2em;
+	padding-bottom: 1.75em;
+	padding-right: 1.75em;
 }
 
 .p-t-4 {
