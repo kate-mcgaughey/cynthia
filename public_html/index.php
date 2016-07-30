@@ -321,6 +321,7 @@
 					<p class="text-center quote">"My heart, O God, is steadfast; I will sing & make music with all my soul." - Psalm 108:1</p>
 				</div>
 			</div>
+			<br>
 		</section>
 
 		<!-- ========================== -->
