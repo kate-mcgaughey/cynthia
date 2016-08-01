@@ -2,8 +2,8 @@
 /**
  * require all composer dependencies; requiring the autoload file loads all composer packages at once
  **/
-require_once(dirname(dirname(__DIR__)) . "/vendor/autoload.php");
-require_once ("mailer-config.php");
+require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
+require_once("mailer-config.php");
 
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
@@ -17,10 +17,10 @@ try {
 	}
 
 	// sanitize the inputs from the form: name, email, subject, and message
-	// this assumes jQuery (not Angular will be submitting the form, so we're using the $_POST superglobal
+	// this assumes jQuery (note: Angular will be submitting the form, so we're using the $_POST superglobal)
 	$name = filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
-	$subject = "Update from cynthiahodgsonmusic.com";
+	$subject = filter_input(INPUT_POST, "Update from cynthiahodgsonmusic.com", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$message = filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 
 	// create Swift message
@@ -38,8 +38,7 @@ try {
 	$recipients = $MAIL_RECIPIENTS;
 	$swiftMessage->setTo($recipients);
 
-	// attach the subject line to the message
-	// want to create generic subject line
+	// attach generic subject line to the message
 	$swiftMessage->setSubject($subject);
 
 	/**
